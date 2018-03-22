@@ -11,4 +11,7 @@
 
 ### Support or Contact
 
-- [Vanderlei Martinelli](https://github.com/vmartinelli)
+#### Vanderlei Martinelli
+
+- [GitHub](https://github.com/vmartinelli)
+- [LinkedIn](https://www.linkedin.com/in/vmartinelli)
