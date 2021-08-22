@@ -15,3 +15,12 @@ Gemfile.lock
 # npm dependencies
 node_modules
 package-lock.json
+
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+.bundle/
+vendor/
+
+_site/
