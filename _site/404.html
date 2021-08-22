@@ -4,6 +4,8 @@
 
 <html lang="en" 
   
+    mode="dark"
+  
 >
 
   <!--
@@ -20,21 +22,21 @@
 <meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="404: Page not found" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation." />
-<meta property="og:description" content="A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation." />
+<meta name="description" content="Comming soon, the new Alecrim website." />
+<meta property="og:description" content="Comming soon, the new Alecrim website." />
 <link rel="canonical" href="/404.html" />
 <meta property="og:url" content="/404.html" />
-<meta property="og:site_name" content="Chirpy" />
+<meta property="og:site_name" content="Alecrim" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="404: Page not found" />
-<meta name="twitter:site" content="@twitter_username" />
+<meta name="twitter:site" content="@vmartinelli" />
 <meta name="google-site-verification" content="google_meta_tag_verification" />
 <script type="application/ld+json">
-{"description":"A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.","url":"/404.html","headline":"404: Page not found","@type":"WebPage","@context":"https://schema.org"}</script>
+{"description":"Comming soon, the new Alecrim website.","url":"/404.html","headline":"404: Page not found","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
-  <title>404: Page not found | Chirpy
+  <title>404: Page not found | Alecrim
   </title>
 
   <!--
@@ -49,8 +51,8 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png">
 <link rel="manifest" href="/assets/img/favicons/site.webmanifest">
 <link rel="shortcut icon" href="/assets/img/favicons/favicon.ico">
-<meta name="apple-mobile-web-app-title" content="Chirpy">
-<meta name="application-name" content="Chirpy">
+<meta name="apple-mobile-web-app-title" content="Alecrim">
+<meta name="application-name" content="Alecrim">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="/assets/img/favicons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
@@ -105,14 +107,14 @@
     <div id="avatar">
       <a href="/" alt="avatar" class="mx-auto">
         
-        <img src="https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg" alt="avatar" onerror="this.style.display='none'">
+        <img src="https://avatars.githubusercontent.com/u/8340828?s=400" alt="avatar" onerror="this.style.display='none'">
       </a>
     </div>
 
     <div class="site-title mt-3">
-      <a href="/">Chirpy</a>
+      <a href="/">Alecrim</a>
     </div>
-    <div class="site-subtitle font-italic">A text-focused Jekyll theme</div>
+    <div class="site-subtitle font-italic">Comming soon</div>
 
   </div><!-- .profile-wrapper -->
 
@@ -172,8 +174,8 @@
       
 
       
-      <a href="https://github.com/github_username" aria-label="github"
-        class="order-3"
+      <a href="https://github.com/vmartinelli" aria-label="github"
+        
         target="_blank" rel="noopener">
         <i class="fab fa-github-alt"></i>
       </a>
@@ -183,8 +185,8 @@
       
 
       
-      <a href="https://twitter.com/twitter_username" aria-label="twitter"
-        class="order-4"
+      <a href="https://twitter.com/vmartinelli" aria-label="twitter"
+        
         target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -195,8 +197,8 @@
 
       
       <a href="
-          javascript:location.href = 'mailto:' + ['example','doamin.com'].join('@')" aria-label="email"
-        class="order-5"
+          javascript:location.href = 'mailto:' + ['vmartinelli','alecrim.com'].join('@')" aria-label="email"
+        
         >
         <i class="fas fa-envelope"></i>
       </a>
@@ -207,7 +209,7 @@
 
       
       <a href="/feed.xml" aria-label="rss"
-        class="order-6"
+        
         >
         <i class="fas fa-rss"></i>
       </a>
@@ -215,159 +217,6 @@
 
     
 
-    
-      
-        <span class="icon-border order-2"></span>
-      
-
-      <span id="mode-toggle-wrapper" class="order-1">
-        <!--
-  Switch the mode between dark and light.
--->
-
-<i class="mode-toggle fas fa-adjust"></i>
-
-<script type="text/javascript">
-
-  class ModeToggle {
-    static get MODE_KEY() { return "mode"; }
-    static get DARK_MODE() { return "dark"; }
-    static get LIGHT_MODE() { return "light"; }
-
-    constructor() {
-      if (this.hasMode) {
-        if (this.isDarkMode) {
-          if (!this.isSysDarkPrefer) {
-            this.setDark();
-          }
-        } else {
-          if (this.isSysDarkPrefer) {
-            this.setLight();
-          }
-        }
-      }
-
-      var self = this;
-
-      /* always follow the system prefers */
-      this.sysDarkPrefers.addListener(function() {
-        if (self.hasMode) {
-          if (self.isDarkMode) {
-            if (!self.isSysDarkPrefer) {
-              self.setDark();
-            }
-
-          } else {
-            if (self.isSysDarkPrefer) {
-              self.setLight();
-            }
-          }
-
-          self.clearMode();
-        }
-
-        self.updateMermaid();
-      });
-
-    } /* constructor() */
-
-
-    setDark() {
-      $('html').attr(ModeToggle.MODE_KEY, ModeToggle.DARK_MODE);
-      sessionStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.DARK_MODE);
-    }
-
-    setLight() {
-      $('html').attr(ModeToggle.MODE_KEY, ModeToggle.LIGHT_MODE);
-      sessionStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.LIGHT_MODE);
-    }
-
-    clearMode() {
-      $('html').removeAttr(ModeToggle.MODE_KEY);
-      sessionStorage.removeItem(ModeToggle.MODE_KEY);
-    }
-
-    get sysDarkPrefers() { return window.matchMedia("(prefers-color-scheme: dark)"); }
-
-    get isSysDarkPrefer() { return this.sysDarkPrefers.matches; }
-
-    get isDarkMode() { return this.mode == ModeToggle.DARK_MODE; }
-
-    get isLightMode() { return this.mode == ModeToggle.LIGHT_MODE; }
-
-    get hasMode() { return this.mode != null; }
-
-    get mode() { return sessionStorage.getItem(ModeToggle.MODE_KEY); }
-
-    /* get the current mode on screen */
-    get modeStatus() {
-      if (this.isDarkMode
-        || (!this.hasMode && this.isSysDarkPrefer) ) {
-        return ModeToggle.DARK_MODE;
-      } else {
-        return ModeToggle.LIGHT_MODE;
-      }
-    }
-
-    updateMermaid() {
-      if (typeof mermaid !== "undefined") {
-        let expectedTheme = (this.modeStatus === ModeToggle.DARK_MODE? "dark" : "default");
-        let config = { theme: expectedTheme };
-
-        /* re-render the SVG › <https://github.com/mermaid-js/mermaid/issues/311#issuecomment-332557344> */
-        $(".mermaid").each(function() {
-          let svgCode = $(this).prev().children().html();
-          $(this).removeAttr("data-processed");
-          $(this).html(svgCode);
-        });
-
-        mermaid.initialize(config);
-        mermaid.init(undefined, ".mermaid");
-      }
-    }
-
-    flipMode() {
-      if (this.hasMode) {
-        if (this.isSysDarkPrefer) {
-          if (this.isLightMode) {
-            this.clearMode();
-          } else {
-            this.setLight();
-          }
-
-        } else {
-          if (this.isDarkMode) {
-            this.clearMode();
-          } else {
-            this.setDark();
-          }
-        }
-
-      } else {
-        if (this.isSysDarkPrefer) {
-          this.setLight();
-        } else {
-          this.setDark();
-        }
-      }
-
-      this.updateMermaid();
-
-    } /* flipMode() */
-
-  } /* ModeToggle */
-
-  let toggle = new ModeToggle();
-
-  $(".mode-toggle").click(function() {
-
-    toggle.flipMode();
-
-  });
-
-</script>
-
-      </span>
     
 
   </div> <!-- .sidebar-bottom -->
@@ -559,10 +408,10 @@
     <div class="footer-left">
       <p class="mb-0">
         © 2021
-        <a href="https://twitter.com/username">your_full_name</a>.
+        <a href="https://twitter.com/vmartinelli">Vanderlei Martinelli</a>.
         
         <span data-toggle="tooltip" data-placement="top"
-          title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.">Some rights reserved.</span>
+          title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.">All rights reserved.</span>
         
       </p>
     </div>
