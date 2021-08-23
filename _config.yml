@@ -18,7 +18,7 @@ timezone: America/Sao_Paulo
 # ↓ --------------------------
 
 title: Alecrim                         # the main title
-tagline: Comming soon   # it will display as the sub-title
+tagline: Vanderlei Martinelli          # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   Comming soon,
   the new Alecrim
