@@ -41,7 +41,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/vmartinelli      # change to your twitter homepage
     - https://github.com/vmartinelli       # change to your github homepage
-    - https://www.linkedin.com/in/vmartinelli
+    # - https://www.linkedin.com/in/vmartinelli
 
 # google_site_verification: google_meta_tag_verification # change to your verification string
 
