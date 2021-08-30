@@ -35,7 +35,7 @@ Going beyond the fact that the human being is the only living being on this plan
 
 One of the greatest profits, certainly not the only one, arising from diversity is cultural wealth (which is essentially and deeply one of the greatest human wealth).
 
-That’s why companies like Netflix, at least for now, are so well-liked by their subscribers. That they are even willing when they have resources and understand to make sense, to pay more so that they continue to be like this: diverse.
+That’s why companies like Netflix, at least for now, are so well-liked by their subscribers. People are even willing when they have resources and understand to make sense, to pay more so that they continue to be like this: diverse.
 
 {% include lang.html %}
 
