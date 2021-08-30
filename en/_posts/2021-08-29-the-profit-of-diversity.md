@@ -5,9 +5,9 @@ date: 2021-08-29T16:45:00-03:00
 lang: en
 lang-ref: the-profit-of-diversity
 image: https://images.unsplash.com/photo-1530695440407-21fef47230b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&h=300&q=80
-imagecredit\_id: '@bacila\_vlad'
-imagecredit\_name: 'Bacila Vlad'
-opengraph\_type: article
+imagecredit_id: '@bacila_vlad'
+imagecredit_name: 'Bacila Vlad'
+opengraph_type: article
 categories: Opinion
 tags: cinema culture diversity netflix society streaming technology tv
 ---
@@ -35,7 +35,7 @@ Going beyond the fact that the human being is the only living being on this plan
 
 One of the greatest profits, certainly not the only one, arising from diversity is cultural wealth (which is essentially and deeply one of the greatest human wealth).
 
-That’s why companies like Netflix, at least for now, are so well-liked by their subscribers. People are even willing when they have resources and understand to make sense, to pay more so that they continue to be like this: diverse.
+That’s why companies like Netflix, at least for now, are so well-liked by their subscribers. People are even willing (when they have resources and understand it makes sense) to pay more just to continue being like this: diverse.
 
 {% include lang.html %}
 

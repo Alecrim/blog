@@ -19,7 +19,7 @@ Várias produções únicas e fenomenais de vários países para ter sucesso só
 
 As pessoas, por mais simples ou sofisticadas que sejam, amam a dignidade, a criatividade e a excelência.
 
-Hoje, finalmente, uma [série](https://www.imdb.com/title/tt13495314){:target='_blank'} polonesa pode ser vista e apreciada por uma pessoa em Piracicaba ([eu](https://twitter.com/vmartinelli){:target='_blank'}). Uma pessoa na Polônia pode assistir e apreciar uma [série](https://www.imdb.com/title/tt4922804){:target='_blank'} co-dirigida por uma piracicabana ([Dani Libardi](https://twitter.com/danilibardi){:target='_blank'}).
+Hoje, finalmente, uma [série][1]{:target='_blank'} polonesa pode ser vista e apreciada por uma pessoa em Piracicaba ([eu][2]{:target='_blank'}). Uma pessoa na Polônia pode assistir e apreciar uma [série][3]{:target='_blank'} co-dirigida por uma piracicabana ([Dani Libardi][4]{:target='_blank'}).
 
 A diversidade de pessoas traz diversidade de ideias.
 
@@ -38,3 +38,8 @@ Um dos maiores lucros, certamente não o único, provindo da diversidade é a ri
 É por isso que empresas como a Netflix, pelo menos por enquanto, são tão bem quistas por seus assinantes. Que até se dispõem, quando têm recursos e entendem fazer sentido, a pagar mais caro para que continuem sendo assim: diversas.
 
 {% include lang.html %}
+
+[1]:	https://www.imdb.com/title/tt13495314
+[2]:	https://twitter.com/vmartinelli
+[3]:	https://www.imdb.com/title/tt4922804
+[4]:	https://twitter.com/danilibardi
