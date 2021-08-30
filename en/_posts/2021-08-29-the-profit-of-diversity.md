@@ -31,7 +31,7 @@ It is possible that even though the goal is only financial profit, diversity is 
 
 It is obvious that wanting money in a world where money is depended on even to have the minimum of the minimum of dignity is not something that can be so superficially demonized without bringing the immense context of the history of our species.
 
-Going beyond the fact that the human being is the only living being on this planet who pays to be on it: how to earn this money, how it is distributed and to whom it is accessible and, finally, how it is used and what is its fruit that makes all the difference.
+Going beyond the fact that the human being is the only living being on this planet who pays to be on it: how this money was earned, how it is distributed and to whom it is accessible and, finally, how it is used and what is its fruit make all the difference.
 
 One of the greatest profits, certainly not the only one, arising from diversity is cultural wealth (which is essentially and deeply one of the greatest human wealth).
 
