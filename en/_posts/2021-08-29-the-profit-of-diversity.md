@@ -9,10 +9,10 @@ imagecredit\_id: '@bacila\_vlad'
 imagecredit\_name: 'Bacila Vlad'
 opengraph\_type: article
 categories: Opinion
-tags: cinema culture diversity netflix society streaming technology tv portuguese
+tags: cinema culture diversity netflix society streaming technology tv
 ---
 {% include unsplash_image.md %}
- 
+
 Netflix has done more for series production than television networks in decades. It has done more for cinema than the cinema “industry” has done in decades. All this is because of the promotion and appreciation of diversity.
 
 Several unique and phenomenal productions from various countries to succeed depended only on technical, logistical and financial resources, then good dissemination and great visibility.
