@@ -35,7 +35,7 @@ Indo para além do fato de o ser humano ser o único ser vivo neste planeta que 
 
 Um dos maiores lucros, certamente não o único, provindo da diversidade é a riqueza cultural (que é, essencial e profundamente, uma das maiores riquezas humanas).
 
-É por isso que empresas como a Netflix, pelo menos por enquanto, são tão bem quistas por seus assinantes. Que até se dispõem, quando têm recursos e entendem fazer sentido, a pagar mais caro para que continuem sendo assim: diversas.
+É por isso que empresas como a Netflix, pelo menos por enquanto, são tão bem quistas por seus assinantes. Que até se dispõem, quando têm recursos e entendem fazer sentido, a pagar mais caro para que continuem sendo assim: diversos.
 
 {% include lang.html %}
 
@@ -43,3 +43,4 @@ Um dos maiores lucros, certamente não o único, provindo da diversidade é a ri
 [2]:	https://twitter.com/vmartinelli
 [3]:	https://www.imdb.com/title/tt4922804
 [4]:	https://twitter.com/danilibardi
+
