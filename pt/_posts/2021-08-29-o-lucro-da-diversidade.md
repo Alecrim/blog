@@ -2,7 +2,8 @@
 layout: post
 title: 'O Lucro da Diversidade'
 date: 2021-08-29T16:45:00-03:00
-lang: pt-BR
+lang: pt
+lang-ref: the-profit-of-diversity
 image: https://images.unsplash.com/photo-1530695440407-21fef47230b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&h=300&q=80
 imagecredit_id: '@bacila_vlad'
 imagecredit_name: 'Bacila Vlad'
@@ -35,3 +36,5 @@ Indo para além do fato de o ser humano ser o único ser vivo neste planeta que 
 Um dos maiores lucros, certamente não o único, provindo da diversidade é a riqueza cultural (que é, essencial e profundamente, uma das maiores riquezas humanas).
 
 É por isso que empresas como a Netflix, pelo menos por enquanto, são tão bem quistas por seus assinantes. Que até se dispõem, quando têm recursos e entendem fazer sentido, a pagar mais caro para que continuem sendo assim: diversas.
+
+{% include lang.html %}

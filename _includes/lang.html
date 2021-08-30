@@ -1,0 +1,12 @@
+<hr />
+<p>Read this post in:</p>
+<ul>
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  {% if post.lang != page.lang %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ site.data.languages[post.lang].label }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
