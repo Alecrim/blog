@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'O Lucro da Diversidade'
+title: O Lucro da Diversidade
+author: Vanderlei Martinelli
 date: 2021-08-29T16:45:00-03:00
 lang: pt
 lang-ref: the-profit-of-diversity
