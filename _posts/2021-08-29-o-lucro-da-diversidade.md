@@ -8,8 +8,9 @@ image: https://images.unsplash.com/photo-1530695440407-21fef47230b1?ixid=MnwxMjA
 imagecredit_id: '@bacila_vlad'
 imagecredit_name: 'Bacila Vlad'
 opengraph_type: article
-categories: Opinion
+category: Opinion
 tags: cinema culture diversity netflix society streaming technology tv
+excerpt: A Netflix já fez mais pela produção de séries do que as redes de televisão em décadas. Já fez mais pelo cinema que a “indústria” do cinema fez em décadas. Tudo isto por conta da fomentação e da valorização da diversidade.
 ---
 {% include unsplash_image.md %}
 

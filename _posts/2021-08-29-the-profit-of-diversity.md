@@ -8,8 +8,9 @@ image: https://images.unsplash.com/photo-1530695440407-21fef47230b1?ixid=MnwxMjA
 imagecredit_id: '@bacila_vlad'
 imagecredit_name: 'Bacila Vlad'
 opengraph_type: article
-categories: Opinion
+category: Opinion
 tags: cinema culture diversity netflix society streaming technology tv
+excerpt: Netflix has done more for series production than television networks in decades. It has done more for cinema than the cinema “industry” has done in decades. All this is because of the promotion and appreciation of diversity.
 ---
 {% include unsplash_image.md %}
 
@@ -27,7 +28,7 @@ People want to see themselves represented, they want to see themselves in the wo
 
 By fostering, valuing and giving space to diversity, Netflix is currently able to show productions that no other can.
 
-It is possible that even though the goal is only financial profit, diversity is still advantageous. It is necessary, however, that much more than financial profit is the goal because people know when they are being deceived or when values are noble, genuine and practised.
+It is possible that even though the goal being just financial profit, diversity is still advantageous. It is necessary, however, that is much more than financial profit the goal, because people know when they are being deceived or when values are noble, genuine and practised.
 
 It is obvious that wanting money in a world where money is depended on even to have the minimum of the minimum of dignity is not something that can be so superficially demonized without bringing the immense context of the history of our species.
 
