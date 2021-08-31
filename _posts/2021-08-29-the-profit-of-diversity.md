@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Profit of Diversity
-Author: Vanderlei Martinelli
+author: Vanderlei Martinelli
 date: 2021-08-29T16:45:00-03:00
 lang: en
 lang-ref: the-profit-of-diversity
