@@ -19,7 +19,7 @@ description: A sua vida vale menos que quinze minutos do tempo de um programador
 Sua vida vale menos que quinze minutos do tempo de um programador dentro da Apple. Ao menos para a Apple e mais um monte de gente. Entenda.
 
 ### O chacoalhão
-Chacoalhar seu iPhone em 2007 (enquanto caminha deslumbrado pelas ruas de San Francisco, talvez) para desfazer alguma açào nele podia ser até engraçadinho e divertido. Fazer isso em 2021 com um iPhone que custa 14 vezes o valor de um salário mínimo mensal no Brasil, principalmente se ele for arremessado ao chão durante o ato, pode ser bem o oposto disso (não que naquela época já não fosse).
+Chacoalhar seu iPhone em 2007 (enquanto caminha deslumbrado pelas ruas de San Francisco, talvez) para desfazer alguma ação nele podia ser até engraçadinho e divertido. Fazer isso em 2021 com um iPhone que custa 14 vezes o valor de um salário mínimo mensal no Brasil, principalmente se ele for arremessado ao chão durante o ato, pode ser bem o oposto disso (não que naquela época já não fosse).
 
 Claro que havia uma solução melhor de interface que esta, e a Apple, ao menos para iPhones gigantes, implementou. Hoje, adicionalmente, você pode tentar tocar a tela com três dedos (tente fazer isso num iPhone SE, primeiro modelo; sim... eu sei que é triste, Phil Schiller, as pessoas não comprarem sempre os últimos modelos de dispositivos da sua *long fellow*, Apple: claro que elas fazem isso só porque são chatas) e esperar que o *software* entenda o mesmo que você e o *hardware* já tinham entendido durante o gesto.
 
