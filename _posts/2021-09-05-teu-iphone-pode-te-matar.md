@@ -58,7 +58,8 @@ Várias pessoas podem literalmente morrer pelo fato de você genuinamente precis
 ## Quem pode fazer alguma coisa?
 Ninguém! Eu poderia dizer que você, se parar de comprar iPhone. Mas aí eu fico sem poder programar *apps* para iPhone (uma outra paixão minha desde que o Steve todo orgulhoso e fazendo piada de tiozão o lançou), tentando seguir as *Human Interface Guidelines* que a a própria Apple não segue, tentando servir da melhor maneira a pessoa a quem eu de fato presto serviço e quero ver toda feliz e satisfeita: o usuário que precisa, baixa e usa uma *app* e, no final, é quem paga toda a conta e todo o rodar das engrenagens dessa indústria trilionária. Pedir para usar o outro sistema operacional (infelizmente o único concorrente) seria algo ainda pior. E ficar sem celular em 2021 é quase como se desconectar totalmente do mundo à sua volta. (Talvez não fosse má ideia, pensando bem.)
 
+## Quanto vale a vida?
 Insistentemente, ano após ano, repito apelos para que algo seja feito. Não deve ser tão difícil. Coloca o código na minha mão! Eu até sei mais ou menos o que alterar e onde. É mais o tempo de encontrar onde está, e depois passar por toda burocracia gigante (automatizada ou não). Codificar e mudar isso para uma notificação não deve levar nem uns quinze minutos. (O que faz chegar à conclusào de que, no fundo, sua vida não vale nem quinze minutos de um dos elfos programadores dentro da Apple.)
 
-## Conclusão
+## Sorry for the inconvenience...
 Enfim… Num desses anos tentei ver se alguém mais perto do Olimpo se sensibilizava e fizesse chegar a mensagem a quem pudesse ao menos considerá-la. Um desses semideuses certa vez concedeu-me a graça da sua resposta, dizendo que marcar pessoas aleatórias no Twitter não faria nada mais que incomodá-las inutilmente. Bem, o que é incômodo para você, meu querido cínico, pode ser a morte para outra pessoa. Ah, isso vale para vocês também, Phil Schiller, Craig Federighi e Tim Cook.
