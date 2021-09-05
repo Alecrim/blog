@@ -10,7 +10,7 @@ imagecredit_id: '@bacila_vlad'
 imagecredit_name: 'Bacila Vlad'
 opengraph_type: article
 category: Opinion
-tags: [cinema, culture, diversity, netflix, society, streaming, technology, TV]
+tags: [cinema, culture, diversity, society, streaming, technology, TV, Netflix]
 description: Netflix has done more for series production than television networks in decades. It has done more for cinema than the cinema “industry” has done in decades. All this is because of the promotion and appreciation of diversity.
 ---
 {% include unsplash_image.md %}
