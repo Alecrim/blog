@@ -24,7 +24,7 @@ Chacoalhar seu iPhone em 2007 para desfazer alguma ação enquanto caminha deslu
 Claro que havia uma solução melhor de interface que essa e a Apple, pensando agora apenas em iPhones gigantes, implementou. O resultado é que hoje, adicionalmente, você pode tentar tocar a tela com três dedos[^1] e esperar que o *software* entenda o mesmo que você e o *hardware* já tinham entendido durante o gesto.
 
 ### Temporizadores
-Agora você já tentou em 2021 configurar mais de um *timer*[^2] no seu iPhone? 
+Agora, você já tentou em 2021 configurar mais de um *timer*[^2] no seu iPhone? 
 
 Tipo... Enquanto cozinha você precisa de um *timer* para o cozimento da cenoura e outro para o cozimento da abobrinha. Paralelamente você precisa saber quando já deu o tempo do seu filho precisar tomar outro remédio. Trivial, mas seu iPhone de US$ 2,700.00[^3] nada pode fazer por você. Desde sempre só está disponível um *timer* para os felizes possuidores de iPhone.
 
@@ -46,27 +46,25 @@ Não para a Apple. Se você tiver um iPhone e quiser filmar o primeiro passo do 
 Qual o critério afinal?
 
 ### Chamada telefônica é tão *cringe*
-Uma coisa perfeitamente que era perfeitamente normal em 2007: o anúncio de uma chamada telefônica ocupar a tela inteira e ter prioridade sobre todo o restante. Afinal o nome do dispositivo é iPhone. Era para ser um telefone. Lembram do que isso significava? Mas estamos em 2021 e eu acho bem melhor a solução atual entre a pessoa poder optar entre uma tela cheia ou apenas uma notificação. Eu opto pela notificação.
+Uma coisa que era perfeitamente normal em 2007: o anúncio de uma chamada telefônica ocupar a tela inteira e ter prioridade sobre todo o restante. Afinal o nome do dispositivo é iPhone. Era para ser um telefone. Lembram do que isso significava? Mas estamos em 2021 e eu acho bem melhor a solução atual onde a pessoa poder optar entre uma tela cheia ou apenas uma notificação.
 
-Quase não faço mais chamadas telefônicas convencionais, configurei meu telefone só para receber chamadas telefônicas de quem estiver na minha agenda e, mesmo assim, quando não estiver em algum modo de foco (o velho “não perturbe”).
+Eu opto pela notificação. Quase não faço mais chamadas telefônicas convencionais, configurei meu telefone só para receber chamadas telefônicas de quem estiver na minha agenda e, mesmo assim, quando não estiver em algum modo de foco (o velho “não perturbe”).
 
-Obrigado Apple! De coração. Isso me dá até vontade de pagar quase oitocentos reais para ter o privilégio de poder colocar um app grátis em sua loja por mais um ano. Brincadeira, não dá vontade não.
+Obrigado Apple! De coração. (Isso me dá até vontade de pagar quase oitocentos reais para ter o privilégio de poder colocar um app grátis em sua loja por mais um ano. Brincadeira, não dá vontade não.)
 
 ### “Modal” e “system modal”
 O termo “modal” é usado atualmente quando um *software*, neste caso suas *apps*, quer sua atenção para algo e jura de pé junto que não conseguirá de modo algum mesmo continuar se você não parar tudo que está fazendo na vida e no mundo e lhe der atenção imediata. É claro que a *app* é mais importante que tudo e quem fez essa coisa, digo, *app*, sabe mais sobre sua vida que você mesmo.
 
 Mas existe algo pior que “modal”:  é o **“system modal”**.
 
-(E agora é que está começando o artigo de fato. Portanto acorde a pessoa ao lado porque agora é que vem a melhor parte!)
+(Sim… Agora é que está começando o artigo de fato. Portanto acorde a pessoa ao lado porque agora é que vem a melhor parte!)
 
-“System modal” é uma intervenção abrupta que exige sua atenção imediata e nada pode ser feito assim como o “modal” descrito anteriormente. Só que no nível do sistema! Sim… Seu celular é sequestrado completamente até que você responda[^5].
+“System modal” é uma intervenção abrupta que exige sua atenção imediata e nada pode ser feito assim como o “modal” descrito anteriormente. Só que no nível do sistema! Sim… Seu celular é sequestrado completamente até que você responda[^5]. O que também significa que nada mais em lugar algum do seu celular vai funcionar enquanto você não responder. Como já sabe, se fosse apenas “modal” era só fechar a app e destilar alguns adjetivos elogiosos aos criadores dessa praga. Digo, dessa *app*. Mas agora é o sistema operacional. O *f* sistema operacional!
 
-Sim, isso significa que nada mais em lugar algum do seu celular vai funcionar enquanto você não responder. Como já sabe, se fosse apenas “modal” era só fechar a app e destilar alguns adjetivos elogiosos aos criadores dessa praga. Digo, dessa *app*. Mas agora é o sistema operacional. O *f* sistema operacional!
-
-O que fazer quando é o sistema operacional que trava sua vida porque ele se acha muito mais importante que você? Ou quem o idealizou acreditar piamente que sua vida vale menos que uma bateria de um telefone a 20% de acabar?
+O que fazer quando é o sistema operacional que trava sua vida inteira só porque ele se acha muito mais importante que você ou qualquer coisa que você esteja fazendo? Fico imaginando o que se passa pela mente de quem o idealizou acreditar piamente que sua vida vale menos que uma bateria de um telefone a 20% de acabar.
 
 ## Quando é “apenas” um inconveniente
-Ter de parar tudo na sua vida para dizer ao computador (sim, o iPhone é um computador) o que ele deve fazer para continuar algo tão corriqueiro pode ser inconveniente.
+Ter de parar tudo na sua vida para dizer ao computador (sim, o iPhone é um computador, rodando UNIX ainda por cima) o que ele deve fazer para continuar algo tão corriqueiro pode ser inconveniente.
 
 “Coloco em modo de economia de energia ou só deixo como está? Só para constar, nada pode ser mais importante neste momento em todo o universo do que você saber que estou com 20% de bateria e me dar atenção total imediata. Inclusive, gentilmente parei todo o resto nesse telefone enquanto voce não me responder, tá?” — diz seu querido iPhone (embora eu ouça a voz do Craig, meio que tossindo “disfarçadamente” às vezes).
 
