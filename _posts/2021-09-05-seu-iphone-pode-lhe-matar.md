@@ -104,8 +104,6 @@ Enfim… Feito este “pequeno” desabafo com uma infinidade de *footnotes*, sa
 
 &nbsp;
 - - -
-&nbsp;
-
 [^1]: Tente fazer isso num iPhone SE, primeiro modelo. Sim... Eu sei que é triste, Phil Schiller, as pessoas não comprarem sempre os últimos modelos de dispositivos da sua *long fellow*, Apple: claro que elas fazem isso só porque são chatas.
 [^2]: Até onde eu vi a Apple não traduziu isso para português brasileiro, mantendo o termo em inglês.
 [^3]: Sem capinha, sem carregador e sem Apple Care.
