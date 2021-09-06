@@ -64,7 +64,7 @@ Mas existe algo pior que “modal”:  é o **“system modal”**.
 O que fazer quando é o sistema operacional que trava sua vida inteira só porque ele se acha muito mais importante que você ou qualquer coisa que você esteja fazendo? Fico imaginando o que se passa pela mente de quem o idealizou para acreditar piamente que sua vida vale menos que uma bateria de um telefone estar aos 20% de acabar.
 
 ## Quando é “apenas” um inconveniente
-Ter de parar tudo na sua vida para dizer ao computador (sim, o iPhone é um computador, rodando UNIX ainda por cima [ou seria por baixo?]) o que ele deve fazer para continuar algo tão corriqueiro pode ser inconveniente.
+Ter de parar tudo na sua vida para dizer ao computador o que ele deve fazer para continuar algo tão corriqueiro pode ser inconveniente. (Sim, o seu iPhone é um computador, rodando UNIX ainda por cima. Ou seria por baixo?)
 
 “Coloco em modo de economia de energia ou só deixo como está? Só para constar, nada pode ser mais importante neste momento em todo o universo do que você saber que estou com 20% de bateria e me dar atenção total imediata. Inclusive, gentilmente parei todo o resto nesse telefone enquanto voce não me responder, tá?” — diz seu querido iPhone (embora eu ouça a voz do Craig, meio que tossindo “disfarçadamente” às vezes).
 
