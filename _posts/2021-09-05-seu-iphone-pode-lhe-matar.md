@@ -101,6 +101,7 @@ O que faz chegar a triste conclusão de que, no fundo, sua vida não vale nem qu
 Mas, falando dos que se comportam como elfos ou semideuses: num desses anos tentei ver se alguém mais influente no Olimpo se sensibilizava e fizesse chegar a mensagem a quem pudesse ao menos considerá-la. Um desses semideuses certa vez concedeu-me a graça da sua resposta, dizendo que marcar pessoas aleatórias no Twitter não faria nada mais que incomodá-las inutilmente. Bem, o que é incômodo para você, meu querido cínico, pode significar evitar a morte literal de outra pessoa tão pessoa quanto você. (Ah, e essa admoestação carinhosa vale também para vocês, Phil Schiller, Craig Federighi e Tim Cook.)
 
 Enfim… Feito este “pequeno” desabafo com uma infinidade de *footnotes*, sarcasmos e ironias, bastante válidas entretanto, devo dizer que o assunto é mesmo sério. E gostaria que vocês atentassem para isto. O quanto uma interface mal feita não só pode trazer uma experiência ruim a pessoa que a usa. Pode, de fato, matá-la. E não há empresa no mundo, dispositivo no mundo, sistema operacional no mundo que valha mais que a vida de uma pessoa.
+
 - - -
 [^1]: Tente fazer isso num iPhone SE, primeiro modelo. Sim... Eu sei que é triste, Phil Schiller, as pessoas não comprarem sempre os últimos modelos de dispositivos da sua *long fellow*, Apple: claro que elas fazem isso só porque são chatas.
 [^2]: Até onde eu vi a Apple não traduziu isso para português brasileiro, mantendo o termo em inglês.
