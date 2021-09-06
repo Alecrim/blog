@@ -84,7 +84,7 @@ Até o ícone ou porcentagem lá em cima piscando já resolveria. Mas o Tim e Cr
 ## Quem pode fazer alguma coisa?
 Ninguém!
 
-Eu poderia dizer que você mesmo poderia, se parasse de comprar iPhone. Mas aí eu fico sem poder programar *apps* para iPhone (uma outra paixão minha desde que o Steve todo orgulhoso e fazendo piada de tiozão o lançou), tentando seguir as *Human Interface Guidelines* que a a própria Apple não segue, tentando servir e ser útil da melhor maneira possível à pessoa a quem de fato presto serviço e quero ver toda feliz e satisfeita: o usuário que precisa, baixa e usa uma *app* e, no final, é quem paga, não só financeiramente, toda a conta e todo o rodar das engrenagens dessa indústria trilionária.
+Eu poderia dizer que você mesmo poderia, se parasse de comprar iPhone. Mas aí eu fico sem poder programar *apps* para iPhone (uma outra paixão minha desde que o Steve todo orgulhoso e fazendo piada de tiozão o lançou), tentando seguir as *Human Interface Guidelines* que a própria Apple não segue, tentando servir e ser útil da melhor maneira possível à pessoa a quem de fato presto serviço e quero ver toda feliz e satisfeita: o usuário que precisa, baixa e usa uma *app* e, no final, é quem paga, não só financeiramente, toda a conta e todo o rodar das engrenagens dessa indústria trilionária.
 
 Pedir para usar o outro sistema operacional[^10] (infelizmente e ainda o único concorrente) seria algo ainda pior. E ficar sem celular em 2021 é quase como se desconectar totalmente do mundo à sua volta. (Talvez não fosse má ideia, pensando bem.)
 
