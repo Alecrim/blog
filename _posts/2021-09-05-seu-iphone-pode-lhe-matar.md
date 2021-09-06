@@ -79,14 +79,14 @@ O problema é que, não importa que *app* de mapa você use, ao que parece nada 
 
 Várias pessoas podem literalmente morrer pelo fato de você genuinamente precisar saber se deve ou não sair da rodovia, mas o iPhone ainda assim quer que você dê atenção à coisa mais urgente e importante do mundo nesse momento: a porcentagem da bateria. Não pode ser uma notificação, não pode ser uma barra de *status* com outra cor. Até o ícone ou porcentagem lá em cima piscando já resolveria.
 
-Mas o Tim e Craig acham que isso não importa, que sua vida não importa e precisam que você, talvez a 80 km/h[^8] ou mais , pare tudo, olhe para o telefone, tente apertar um botão que não quer ser apertado e corra o risco real de matar sua família, uma pessoa na rua que nem sabe o que é um iPhone e, é claro, você mesmo.
+Mas o Tim e Craig acham que isso não importa, que sua vida não importa e precisam que você, talvez a 80 km/h[^9] ou mais , pare tudo, olhe para o telefone, tente apertar um botão que não quer ser apertado e corra o risco real de matar sua família, uma pessoa na rua que nem sabe o que é um iPhone e, é claro, você mesmo.
 
 ## Quem pode fazer alguma coisa?
 Ninguém!
 
 Eu poderia dizer que você mesmo poderia, se parasse de comprar iPhone. Mas aí eu fico sem poder programar *apps* para iPhone (uma outra paixão minha desde que o Steve todo orgulhoso e fazendo piada de tiozão o lançou), tentando seguir as *Human Interface Guidelines* que a a própria Apple não segue, tentando servir e ser útil da melhor maneira possível à pessoa a quem de fato presto serviço e quero ver toda feliz e satisfeita: o usuário que precisa, baixa e usa uma *app* e, no final, é quem paga, não só financeiramente, toda a conta e todo o rodar das engrenagens dessa indústria trilionária.
 
-Pedir para usar o outro sistema operacional[^9] (infelizmente e ainda o único concorrente) seria algo ainda pior. E ficar sem celular em 2021 é quase como se desconectar totalmente do mundo à sua volta. (Talvez não fosse má ideia, pensando bem.)
+Pedir para usar o outro sistema operacional[^10] (infelizmente e ainda o único concorrente) seria algo ainda pior. E ficar sem celular em 2021 é quase como se desconectar totalmente do mundo à sua volta. (Talvez não fosse má ideia, pensando bem.)
 
 ## Quanto vale a vida?
 Insistentemente, ano após ano, repito apelos para que algo seja feito.
