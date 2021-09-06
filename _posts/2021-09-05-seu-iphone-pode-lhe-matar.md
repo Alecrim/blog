@@ -110,5 +110,5 @@ Enfim… Feito este “pequeno” desabafo com uma infinidade de *footnotes*, sa
 [^5]: Ou reinicie o celular. O que é bem rápido, só que não, né?
 [^6]: Desculpe novamente, Phil Schiller.
 [^7]: Que vai vender até minha respiração para anunciantes e cada localidade minha para os governos.
-[^8]: “Quilômetros por hora”… Sim, eu sei que é um negócio muito maluco, muito difícil de entender para certa parte do mundo. Para a outra parte é o que se usa no para medir a velocidade de um veículo. E olha que disruptivo: 10 milímetros viram 1 centímetro; 100 centímetros viram 1 metro; 1000 metros viram 1 quilômetro. Como ninguém pensou nisso antes?
+[^8]: “Quilômetros por hora”… Sim, eu sei que é um negócio muito maluco, muito difícil de entender para certa parte do mundo. Para a outra parte é o que se usa para medir a velocidade de um veículo. E olha que disruptivo: 10 milímetros viram 1 centímetro; 100 centímetros viram 1 metro; 1000 metros viram 1 quilômetro. Como ninguém pensou nisso antes?
 [^9]: Aquele que foi comprado pelo Google para virar cópia do BlackBerry quando entenderam que estavam olhando na direção errada e então resolveram copiar o iOS.
