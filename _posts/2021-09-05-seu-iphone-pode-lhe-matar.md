@@ -77,9 +77,9 @@ Aí você coloca o Waze[^8] para rodar lá, que fala até português brasileiro 
 
 O problema é que, não importa que *app* de mapa você use, ao que parece nada do mundo é mais importante que os malditos 20%, 10% ou 5% de bateria do seu iPhone. Nem sua vida. Ele vai mostrar uma caixa de diálogo minúscula, com botões de ação minúsculos, propositalmente desenhados para não poderem ser apertados, muito menos facilmente. Muito menos com o carro em movimento. Muito menos com vidas envolvidas. A sua, as de quem está no seu carro junto a você, as dos que estão na estrada e as dos que estão em outros carros.
 
-Várias pessoas podem literalmente morrer pelo fato de você genuinamente precisar saber se deve ou não sair da rodovia, mas o iPhone ainda assim quer que você dê atenção à coisa mais urgente e importante do mundo nesse momento: a porcentagem da bateria. Não pode ser uma notificação, não pode ser uma barra de *status* com outra cor. Até o ícone ou porcentagem lá em cima piscando já resolveria.
+Várias pessoas podem literalmente morrer pelo fato de você genuinamente precisar saber se deve ou não sair da rodovia, mas o iPhone ainda assim quer que você dê atenção à coisa mais urgente e importante do mundo nesse momento: a porcentagem da bateria. Não pode ser uma notificação, não pode ser uma barra de *status* com outra cor.
 
-Mas o Tim e Craig acham que isso não importa, que sua vida não importa e precisam que você, talvez a 80 km/h[^9] ou mais , pare tudo, olhe para o telefone, tente apertar um botão que não quer ser apertado e corra o risco real de matar sua família, uma pessoa na rua que nem sabe o que é um iPhone e, é claro, você mesmo.
+Até o ícone ou porcentagem lá em cima piscando já resolveria. Mas o Tim e Craig acham que isso não importa, que sua vida não importa e precisam que você, talvez a 80 km/h[^9] ou mais , pare tudo, olhe para o telefone, tente apertar um botão que não quer ser apertado e corra o risco real de matar sua família, uma pessoa na rua que nem sabe o que é um iPhone e, é claro, você mesmo.
 
 ## Quem pode fazer alguma coisa?
 Ninguém!
