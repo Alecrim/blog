@@ -33,7 +33,7 @@ A coisa pode ser ainda mais simples.
 
 Imagine que na virada do ano você talvez queira configurar um alarme às 00:00 para saber quando abraçar e confraternizar com seus próximos. Tudo isso enquanto seu iPhone está filmando a alegria de um recomeço e uma nova etapa na história da humanidade que usa este calendário.
 
-Você vai descobrir, da pior maneira, que o alarme assim que iniciar desliga automaticamente a gravação do vídeo sem nem lhe perguntar ou dar qualquer sinal que isso aconteceu. Você perdeu o registro desse momento e não tem como pedir pro mundo inteiro voltar à meia-noite pra regravar tudo de novo. A verdade é que não estamos num filme de Hollywood e nem todos nós em Cupertino.
+Você vai descobrir, da pior maneira, que o alarme assim que iniciar desliga automaticamente a gravação do vídeo sem nem lhe perguntar ou dar qualquer sinal que isso aconteceu. Você perdeu o registro desse momento e não tem como pedir pro mundo inteiro voltar à meia-noite pra regravar tudo de novo. A verdade é que não estamos num filme de Hollywood e nem todos nós em Las Vegas.
 
 ### O alerta da morte
 Indo um pouco mais além, deixando inúmeros outros exemplos de lado, chegamos finalmente ao alerta modal de bateria baixa[^4].
