@@ -46,7 +46,7 @@ Não para a Apple. Se você tiver um iPhone e quiser filmar o primeiro passo do 
 Qual o critério afinal?
 
 ### Chamada telefônica é tão *cringe*
-Uma coisa que era perfeitamente normal em 2007: o anúncio de uma chamada telefônica ocupar a tela inteira e ter prioridade sobre todo o restante. Afinal o nome do dispositivo é iPhone. Era para ser um telefone. Lembram do que isso significava? Mas estamos em 2021 e eu acho bem melhor a solução atual onde a pessoa poder optar entre uma tela cheia ou apenas uma notificação.
+Uma coisa que era perfeitamente normal em 2007: o anúncio de uma chamada telefônica ocupar a tela inteira e ter prioridade sobre todo o restante. Afinal o nome do dispositivo é iPhone. Era para ser um telefone. Lembram do que isso significava? Mas estamos em 2021 e eu acho bem melhor a solução atual onde a pessoa pode optar entre uma tela cheia ou apenas uma notificação.
 
 Eu opto pela notificação. Quase não faço mais chamadas telefônicas convencionais, configurei meu telefone só para receber chamadas telefônicas de quem estiver na minha agenda e, mesmo assim, quando não estiver em algum modo de foco (o velho “não perturbe”).
 
