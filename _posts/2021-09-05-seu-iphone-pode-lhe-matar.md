@@ -55,7 +55,7 @@ Obrigado Apple! De coração. Isso me dá até vontade de pagar quase oitocentos
 ### “Modal” e “system modal”
 O termo “modal” é usado atualmente quando um *software*, neste caso suas *apps*, quer sua atenção para algo e jura de pé junto que não conseguirá de modo algum mesmo continuar se você não parar tudo que está fazendo na vida e no mundo e lhe der atenção imediata. É claro que a *app* é mais importante que tudo e quem fez essa coisa, digo, *app*, sabe mais sobre sua vida que você mesmo.
 
-Mas existe algo pior que “modal”:  é o **“system modal”**. (E agora é que está começando o artigo de fato. Portanto acorde agora é que vem a melhor parte!)
+Mas existe algo pior que “modal”:  é o **“system modal”**. (E agora é que está começando o artigo de fato. Portanto acorde a pessoa ao lado porque agora é que vem a melhor parte!)
 
 “System modal” é uma intervenção abrupta que exige sua atenção imediata e nada pode ser feito assim como o “modal” descrito anteriormente. Só que no nível do sistema! Sim… Seu celular é sequestrado completamente até que você responda[^5].
 
