@@ -71,7 +71,7 @@ Ter de parar tudo na sua vida para dizer ao computador (sim, o iPhone é um comp
 Se fosse seu filhinho pedindo que você fosse até ao banheiro limpá-lo, faz parte da paternidade. Mas… Um telefone? É sério isso?
 
 ## Quando pode ser fatal
-Muitos de nós não se pode dar ao luxo de ter um carro com Car Play ou adaptar um sistema em seu carro com suporte ao mesmo[^6]. O que pode ser feito é comprar na farmácia mais próxima um daqueles suportezinhos de celular e o acoplar na saída de ar do seu carro (sim, na farmácia, já viram quanto custa isso na Apple Store do Brasil?).
+Muitos de nós não podem desfrutar do “luxo” de ter um carro com Apple CarPlay de fábrica ou adaptar um sistema de som ou multimedia de terceiros no seu carro que torne essa funcionalidade acessível[^6]. Só o que pode ser feito muitas vezes é comprar na farmácia mais próxima um daqueles suportezinhos de celular e o acoplar na saída de ar do seu carro (sim, na farmácia… já viram quanto custa isso na Apple Store do Brasil?). Lembrando que no Brasil muitas pessoas dependem de entregar comida em motocicletas, onde a adaptação é ainda mais complicada.
 
 Aí você coloca o Waze para rodar[^7] lá, que fala até português brasileiro bem e nem precisa mudar o idioma do seu celular inteiro pra isso, para te ajudar no caminho. E, só para constar:  sempre achei que deveria ter sido a Apple a comprar o Waze; a *app* “Mapas” da Apple só deve funcionar direito nos quarteirões ao redor da casa do Tim Cook; ainda acho que um Forstall mais humilde ainda fez e faz falta nessa torta).
 
