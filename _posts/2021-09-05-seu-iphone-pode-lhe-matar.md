@@ -61,7 +61,7 @@ Mas existe algo pior que “modal”:  é o **“system modal”**.
 
 “System modal” é uma intervenção abrupta que exige sua atenção imediata e nada pode ser feito assim como o “modal” descrito anteriormente. Só que no nível do sistema! Sim… Seu celular é sequestrado completamente até que você responda[^5]. O que também significa que nada mais em lugar algum do seu celular vai funcionar enquanto você não responder. Como já sabe, se fosse apenas “modal” era só fechar a app e destilar alguns adjetivos elogiosos aos criadores dessa praga. Digo, dessa *app*. Mas agora é o sistema operacional. O *f* sistema operacional!
 
-O que fazer quando é o sistema operacional que trava sua vida inteira só porque ele se acha muito mais importante que você ou qualquer coisa que você esteja fazendo? Fico imaginando o que se passa pela mente de quem o idealizou acreditar piamente que sua vida vale menos que uma bateria de um telefone a 20% de acabar.
+O que fazer quando é o sistema operacional que trava sua vida inteira só porque ele se acha muito mais importante que você ou qualquer coisa que você esteja fazendo? Fico imaginando o que se passa pela mente de quem o idealizou para acreditar piamente que sua vida vale menos que uma bateria de um telefone estar aos 20% de acabar.
 
 ## Quando é “apenas” um inconveniente
 Ter de parar tudo na sua vida para dizer ao computador (sim, o iPhone é um computador, rodando UNIX ainda por cima) o que ele deve fazer para continuar algo tão corriqueiro pode ser inconveniente.
