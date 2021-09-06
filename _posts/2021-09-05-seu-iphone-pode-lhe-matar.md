@@ -11,7 +11,7 @@ imagecredit_name: 'Viktor Bystrov'
 opengraph_type: article
 category: Opinion
 tags: [iPhone, iOS, UI, UX, battery, notification, death, modal, alert, Apple]
-description: A sua vida vale menos que quinze minutos do tempo de um programador dentro da Apple. Entenda.
+description: Sua vida vale menos que quinze minutos do tempo de um bom programador dentro da Apple. Ao menos para a Apple e mais um monte de gente. Entenda.
 ---
 {% include unsplash_image.md %}
 
