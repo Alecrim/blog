@@ -91,7 +91,7 @@ Pedir para usar o outro sistema operacional[^10] (infelizmente e ainda o único 
 ## Quanto vale a vida?
 Insistentemente, ano após ano, repito apelos para que algo seja feito.
 
-“Não deve ser tão difícil”, imagino eu conversando com os deuses. “Coloca aí o código na minha mão! Eu até sei mais ou menos o que alterar e onde”, devaneio.
+“Não deve ser tão difícil”, imagino eu conversando com os deuses. “Coloca aí o código na minha mão! Eu até sei mais ou menos o que alterar e onde”, devaneio[^11].
 
 Sim… É muito provável que leve mais tempo para encontrar onde está, e depois passar por toda burocracia gigante (automatizada ou não, necessária ou não). Codificar e mudar isso para uma notificação não deve mesmo levar nem uns quinze minutos.
 
@@ -114,3 +114,4 @@ Enfim… Feito este “pequeno” desabafo com uma infinidade de *footnotes*, sa
 [^8]: Que vai vender até minha respiração para anunciantes e cada localidade minha para os governos.
 [^9]: “Quilômetros por hora”… Sim, eu sei que é um negócio muito maluco, muito difícil de entender para certa parte do mundo. Para a outra parte é o que se usa para medir a velocidade de um veículo. E olha que “disruptivo” e “inovador”: 10 milímetros viram 1 centímetro; 100 centímetros viram 1 metro; 1000 metros viram 1 quilômetro. Como ninguém pensou nisso antes?
 [^10]: Aquele que foi comprado pelo Google para virar cópia do BlackBerry quando entenderam que estavam olhando na direção errada e então resolveram copiar o iOS (que na época era conhecido como Mac OS X rodando em celular e no ano seguinte foi nomeado iPhone OS).
+[^11]: Quem sabe no dia em que Apple me “deixar” morar onde eu quero morar e não onde ela queira que eu more?
