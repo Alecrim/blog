@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your iPhone can kill you. Seriously!
+title: Your iPhone Can Kill You!
 author: Vanderlei Martinelli
 date: 2021-09-05T18:00:00-03:00
 lang: pt
