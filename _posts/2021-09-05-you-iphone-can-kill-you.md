@@ -85,7 +85,7 @@ Even a flashing icon or percentage up there would already solve it. But Tim and 
 ## Who can do something?
 Nobody!
 
-I could say that you could if you stopped buying iPhones yourself. But then I can't program apps for iPhone (another passion of mine since Steve was all proud and making a big uncle joke launched him), trying to follow the Human Interface Guidelines that Apple itself does not follow, trying to serve and be useful in the best possible way to the person to whom I actually provide service and I want to see everyone happy and satisfied: the user who needs, downloads and uses an app and, in the end, is the one who pays, not only financially, the entire bill and all the wheels of the gears of this trillionaire industry.
+I could say that you could if you stopped buying iPhones yourself. But then I can't program apps for iPhone (another passion of mine since Steve was all proud while delighting us saying that it was not three separate devices), trying to follow the Human Interface Guidelines that Apple itself does not follow, trying to serve and be useful in the best possible way to the person to whom I actually provide service and I want to see everyone happy and satisfied: the user who needs, downloads and uses an app and, in the end, is the one who pays, not only financially, the entire bill and all the wheels of the gears of this trillionaire industry.
 
 Asking to use the other operating system[^10] (unfortunately and still the only competitor) would be something even worse. And running out of cell phones in 2021 is almost like totally disconnecting from the world around you. (Maybe it wasn't a bad idea, on second thought.)
 
