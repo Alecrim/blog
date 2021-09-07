@@ -39,8 +39,6 @@ One of the greatest profits, certainly not the only one, arising from diversity 
 
 That’s why companies like Netflix, at least for now, are so well-liked by their subscribers. People are even willing (when they have resources and understand it makes sense) to pay more just to continue being like this: diverse.
 
-{% include lang.html %}
-
 [1]:	https://www.imdb.com/title/tt13495314
 [2]:	https://twitter.com/vmartinelli
 [3]:	https://www.imdb.com/title/tt4922804

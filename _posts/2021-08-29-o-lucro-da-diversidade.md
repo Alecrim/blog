@@ -39,8 +39,6 @@ Um dos maiores lucros, certamente não o único, provindo da diversidade é a ri
 
 É por isso que empresas como a Netflix, pelo menos por enquanto, são tão bem quistas por seus assinantes. Que até se dispõem, quando têm recursos e entendem fazer sentido, a pagar mais caro para que continuem sendo assim: diversos.
 
-{% include lang.html %}
-
 [1]:	https://www.imdb.com/title/tt13495314
 [2]:	https://twitter.com/vmartinelli
 [3]:	https://www.imdb.com/title/tt4922804
