@@ -92,7 +92,7 @@ Asking to use the other operating system[^10] (unfortunately and still the only 
 ## How much is life worth?
 Insistently, year after year, I repeat appeals for something to be done.
 
-"It shouldn't be so difficult," I imagine talking to the gods. "Put the code in my hand! I even know more or less what to change and where," daydream[^11].
+"It shouldn't be so difficult," I imagine talking to the gods. "Put the code in my hand! I even know more or less what to change and where," daydreaming[^11].
 
 Yes... It is very likely that it will take longer to find out where it is, and then go through all the giant bureaucracy (automated or not, necessary or not). Encrypting and changing this to show a notification should not even take fifteen minutes.
 
