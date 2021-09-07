@@ -16,7 +16,7 @@ description: Your life is worth less than fifteen minutes of the time of a good 
 {% include unsplash_image.md %}
 
 ## Poorly done things
-Your life is worth less than fifteen minutes of the time of a good programmer within Apple. At least for Apple and a lot of other people. Understand.
+Your life is worth less than fifteen minutes of the time of a good programmer within Apple. At least for Apple and a lot of other people. Learn how.
 
 ### Shake it off?
 Shaking your iPhone in 2007 to undo some action while walking dazzled through the streets of San Francisco could even seem funny and fun. Doing this in 2021 with an iPhone that costs 14 times the value of a monthly minimum wage in Brazil, especially if thrown to the ground during the act, can be quite the opposite (not that it was not like this already).
