@@ -4,7 +4,7 @@ title: Seu iPhone pode lhe matar. Sério!
 author: Vanderlei Martinelli
 date: 2021-09-05T18:00:00-03:00
 lang: pt
-lang-ref: your-iphone-can-kill-you
+lang-ref: your-iphone-can-really-kill-you
 image: https://images.unsplash.com/photo-1516733968668-dbdce39c4651?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1600&q=80
 imagecredit_id: '@xokvictor'
 imagecredit_name: 'Viktor Bystrov'
