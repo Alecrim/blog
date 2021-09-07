@@ -76,7 +76,7 @@ Many of us cannot enjoy the "luxury" of having a car with Apple CarPlay from the
 
 Then you put Waze[^8] to run there, which even speaks Brazilian Portuguese well and you don't even have to change the language of your entire cell phone for this, to help you on the way. And, for the record: I always thought it should have been Apple that bought Waze; Apple "Maps" app should only work right in the blocks around Tim Cook's house; I still think a more humble Forstall missed and keeps missing on this pie.
 
-The problem is that no matter what map app you use, it seems nothing in the world is more important than the damn 20%, 10% or 5% battery of your iPhone. Not even your life. It will show a lowercase dialogue box, with tiny action buttons, purposely designed so that they cannot be pressed, much less easily. Much less with the car moving. Much less with lives involved. Yours, those in your car next to you, those on the road and those in other cars.
+The problem is that no matter what map app you use, it seems nothing in the world is more important than the damn 20%, 10% or 5% battery of your iPhone. Not even your life. It will show a tiny dialogue box, with tiny action buttons, purposely designed so that they cannot be pressed, much less easily. Much less with the car moving. Much less with lives involved. Yours, those in your car next to you, those on the road and those in other cars.
 
 Several people can literally die because you genuinely need to know whether or not to leave the highway, but the iPhone still wants you to pay attention to the most urgent and important thing in the world at this time: the percentage of the battery. It can't be a notification, it can't be a status bar with another colour.
 
