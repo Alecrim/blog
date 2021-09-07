@@ -53,7 +53,7 @@ I opt for notification. I hardly make conventional phone calls anymore so I  set
 Thank you, Apple! From the bottom of my heart. (This even makes me want to pay almost R$ 800,00 to have the privilege of being able to put a free app in your store for another year. Just kidding, I don't feel like that.)
 
 ### “Modal” and “system modal”
-The term "modal" is currently used when software, in this case, an app, wants your attention to something and swears to the grave that it will not be able to continue at all if you do not stop everything you are doing in life and in the world and give your immediate attention. Of course, the app is more important than anything and whoever did this thing, I mean, this app, knows more about your life than yourself.
+The term "modal" is currently used when software, in this case, an app, wants your attention to something and swears to the grave that it will not be able to continue at all if you do not stop everything you are doing in life and in the world and give your full and immediate awareness. Of course, the app is more important than anything and whoever did this thing, I mean, this app, knows more about your life than yourself.
 
 But there is something worse than "modal": it is the  **“system modal”**.
 
