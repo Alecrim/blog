@@ -108,7 +108,7 @@ Anyway... Now that I've made this "small" outburst with a multitude of footnotes
 [^1]: Try to do this on an iPhone SE, the first model. Yes... I know it's sad, Phil Schiller, people don't always buy the latest device models from your “long fellow” Apple: of course, they do it just because they're inconvenient people.
 [^2]: As far as I saw Apple did not translate this into Brazilian Portuguese, keeping the term in English.
 [^3]: No case, no charger and no Apple Care included.
-[^4]: Whatever 20%, 10%, 5% or whatever number Apple thinks it should be.
+[^4]: Whatever 20%, 10%, 5% or other number Apple thinks it should be.
 [^5]: Or restart your phone. Which is very fast, but not, right?
 [^6]: Sorry again, Phil Schiller.
 [^7]: Oh, did you know that there is a Brazilian company (which says it does not work in the food delivery business and that did not have the creativity to create even a name) that thinks that food delivery people, unrecognized as legal employees, do not deserve to be in the "caste" of people who have iPhone? Do they think that only those who can order food in this country deserve to use iPhone and who delivers that same food does not? Anyway, ask one of these employees of... do you know the name... if the delivery app runs on iOS. You may also ask them about the entire security network they don't have.
