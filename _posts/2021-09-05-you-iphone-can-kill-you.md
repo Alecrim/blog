@@ -105,7 +105,7 @@ Anyway... Now that I've made this "small" outburst with a multitude of footnotes
 
 &nbsp;
 - - -
-[^1]: Try to do this on an iPhone SE, the first model. Yes... I know it's sad, Phil Schiller, people don't always buy the latest device models from their long fellow, Apple: of course, they do it just because they're boring.
+[^1]: Try to do this on an iPhone SE, the first model. Yes... I know it's sad, Phil Schiller, people don't always buy the latest device models from your “long fellow”, Apple: of course, they do it just because they're boring people.
 [^2]: As far as I saw Apple did not translate this into Brazilian Portuguese, keeping the term in English.
 [^3]: No case, no charger and no Apple Care included.
 [^4]: Whatever 20%, 10%, 5% or whatever number Apple thinks it should be.
