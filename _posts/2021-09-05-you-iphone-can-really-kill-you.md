@@ -59,7 +59,7 @@ But there is something worse than "modal": it is the  **“system modal”**.
 
 (Yes... Now the article is really starting. So wake up the person next door because now comes the best part!)
 
-"System modal" is an abrupt intervention that requires your immediate attention and nothing can be done just like the "modal" described above. But at the system level! Yes... Your cell phone is completely hijacked until your answer[^5]. This also means that nothing else anywhere on your phone will work until you respond. As you already know, if it were just "modal" it would just close the thing and distil some adjectives complimentary to the creators of this plague. I mean, from this app. But now it's the operating system. The *f* operating system!
+"System modal" is an abrupt intervention that requires your immediate attention and nothing can be done just like the "modal" described above. But at the system level! Yes... Your cell phone is completely hijacked until your answer[^5]. This also means that nothing else anywhere on your phone will work until you respond. As you already know, if it were just "modal" it would just close the thing and distil some adjectives complimentary to the creators of this plague. I mean, of this app. But now it's the operating system. The *f* operating system!
 
 What to do when it's the operating system that crashes your whole life just because it thinks it's much more important than you or anything you're doing? I wonder what goes on in the mind of those who idealized it to strongly believe that your life is worth less than a battery of a phone is at 20% of running out.
 
