@@ -92,11 +92,11 @@ Asking to use the other operating system[^10] (unfortunately and still the only 
 ## How much is life worth?
 Insistently, year after year, I repeat appeals for something to be done.
 
-"It shouldn't be so difficult," I imagine talking to the gods. "Put the code in my hand! I even know more or less what to change and where," daydreaming[^11].
+"It shouldn't be so difficult", I imagine talking to the demigods. "Put the code in my hand! I even know more or less what to change and where", I think to myself[^11].
 
-Yes... It is very likely that it will take longer to find out where it is, and then go through all the giant bureaucracy (automated or not, necessary or not). Encrypting and changing this to show a notification should not even take fifteen minutes.
+Yes... It is very likely that it will take longer to find out where it is, and then go through all the giant bureaucracy (automated or not, necessary or not). Changing this to show a graceful notification instead of the alert of death should not even take fifteen minutes.
 
-This brings to the sad conclusion that, deep down, your life is not even worth fifteen minutes from one of the programmer elves within Apple. And you didn't even have to be an elf. Not least because each of Apple's members, no matter what position they think they are in, are exactly people just like you and me. With the same difficulties and with the same abilities. Just as neither you nor I are better than anyone there, no one there is better than you or me.
+This brings us to the sad conclusion that, deep down, your life is not even worth fifteen minutes from one of the programmer elves within Apple. And her or him didn't even have to be an elf. Not least because each of Apple's members, no matter what position they think they are in, are exactly people just like you and me. With the same difficulties and with the same abilities. Just as neither you nor I are better than anyone there, no one there is better than you or me.
 
 ## "Sorry for the inconvenience…"
 Speaking of those who behave like elves or demigods: in one of these years, I tried to see if someone more influential in Olympus was sensitized and sent the message to those who could at least consider it. One of these demigods once granted me the grace of his answer, saying that tagging random people on Twitter would do nothing more than bother them uselessly. Well, what is annoying for you, my dear cynical, can mean avoiding the literal death of someone else that is a person just like you. (Oh, and this affectionate admonition also applies to you, Phil Schiller, Craig Federighi and Tim Cook.)

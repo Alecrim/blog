@@ -91,7 +91,7 @@ Pedir para usar o outro sistema operacional[^10] (infelizmente e ainda o único 
 ## Quanto vale a vida?
 Insistentemente, ano após ano, repito apelos para que algo seja feito.
 
-“Não deve ser tão difícil”, imagino eu conversando com os deuses. “Coloca aí o código na minha mão! Eu até sei mais ou menos o que alterar e onde”, devaneio[^11].
+“Não deve ser tão difícil”, imagino eu conversando com os semideuses. “Coloca aí o código na minha mão! Eu até sei mais ou menos o que alterar e onde”, devaneio[^11].
 
 Sim… É muito provável que leve mais tempo para encontrar onde está, e depois passar por toda burocracia gigante (automatizada ou não, necessária ou não). Codificar e mudar isso para uma notificação não deve mesmo levar nem uns quinze minutos.
 
