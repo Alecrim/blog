@@ -31,7 +31,7 @@ By fostering, valuing and giving space to diversity, Netflix is currently able t
 
 It is possible that even though the goal being just financial profit, diversity is still advantageous. It is necessary, however, that is much more than financial profit the goal, because people know when they are being deceived or when values are noble, genuine and practised.
 
-It is obvious that wanting money in a world where money is depended on even to have the minimum of the minimum of dignity is not something that can be so superficially demonized without bringing the immense context of the history of our species.
+It is obvious that wanting money in a world where money is depended on even to have the minimum of the minimum of dignity is not something that can be so superficially demonised without bringing the immense context of the history of our species.
 
 Going beyond the fact that the human being is the only living being on this planet who pays to be on it: how this money was earned, how it is distributed and to whom it is accessible and, finally, how it is used and what is its fruit make all the difference.
 
