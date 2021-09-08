@@ -115,4 +115,4 @@ Anyway... Now that I've made this "small" outburst with a multitude of footnotes
 [^8]: That will sell even my breath to advertisers and every location where I was to governments.
 [^9]: "Kilometres per hour"... Yes, I know it's a very crazy business, being very difficult to understand for a certain part of the world. But for the other part is what we use to measure the speed of a vehicle. And look what a "disruptive" and "innovative" thing: 10 millimetres is 1 centimetre; 100 centimetres is 1 meter; 1000 meters is 1 kilometre. How come no one thought about it before?
 [^10]: That one was bought by Google to become a BlackBerry copycat when they realised that they were looking in the wrong direction and then decided to copy iOS instead (which at the time was known as Mac OS X running on mobile phones and in the next year was named iPhone OS).
-[^11]: Who knows the day Apple “allows” me live where I want to live and not where it wants me to live?
+[^11]: Who knows the day Apple “allows” me to live where I want to live and not where it wants me to live?
