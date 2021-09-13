@@ -56,7 +56,7 @@ Faço tudo isso com perfeição? Não. Até porque “perfeito” é algo feito 
 Convido aos caretas que nunca ouviram falar da novena de Dona Canô a experimentarem também. O bem faz bem. E dá até dinheiro (tem outro artigo meu aqui falando sobre isso), se é a única coisa que você quer.
 
 ## O pó branco que vicia
-Lembrei de tudo isso porque sábado agora fui fazer minhas habituais operações de guerra, digo, compras semanais (e como chamar compras triviais num estado de pandemia que, pasmem, ainda não acabou?). E nesse mercado cujo nome tem referência a um pó branco que vicia e pode até matar, tem um clubinho. Não é novidade. Acho que todo lugar agora atem algum tipo desses. Inscrevi-me. Até porque há esses descontos e também possíveis panelas de “brinde” caso você gaste R$ 10.000,00 em duas semanas em compras, pregando selinhos num lugar diminuto e pagando uma diferença de R$ 2.000,00 ao final (tá, os valores e prazos são outros, mas não são tão diferentes).
+Lembrei de tudo isso porque sábado agora fui fazer minhas habituais operações de guerra, digo, compras semanais (e como chamar compras triviais num estado de pandemia que, pasmem, ainda não acabou?). E nesse mercado cujo nome tem referência a um pó branco que vicia e pode até matar, tem um clubinho. Não é novidade. Acho que todo lugar agora tem algum tipo desses. Inscrevi-me. Até porque há esses descontos e também possíveis panelas de “brinde” caso você gaste R$ 10.000,00 em duas semanas em compras, pregando selinhos num lugar diminuto e pagando uma diferença de R$ 2.000,00 ao final (tá, os valores e prazos são outros, mas não são tão diferentes).
 
 ## O “clubinho” de novo
 
