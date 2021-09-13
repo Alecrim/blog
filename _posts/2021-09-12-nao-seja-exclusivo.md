@@ -87,9 +87,9 @@ Enfim… Exclui. E se exclui, a promoção não é para todos. Só para quem ele
 
 Muitos dirão que fazer “clubinhos” de “vantagens” é um direito do estabelecimento para “fildelizar” o cliente. Mesmo que seja: quer “fidelizar”? Tenha bons produtos a preços justos e tenha excelência no atendimento. Pronto. Fidelizou.
 
-Agora, quer fazer de conta, caia fora. Quer bancar o legalzão? Seja legal e todos saberão.
+Agora, quer fazer de conta, caia fora. Quer bancar o legalzão? Seja legal de verdade e todos saberão.
 
-Minimamente não dependa de um aplicativo para que a pessoa tenha direito ao desconto. Muito menos ter de ficar horas procurando onde é que estava a cabeça do CEO ou CTO ou CBO da empresa, seja do supermercado ou da empresa que desenvolveu o aplicativo, quando achou ou acharam que isso seria boa ideia.
+Minimamente não dependa de um aplicativo para que a pessoa tenha direito ao desconto. Muito menos ter de ficar horas procurando onde é que estava a cabeça do CEO ou CTO ou CBO, seja do supermercado ou da empresa que desenvolveu o aplicativo, quando achou ou acharam que isso seria boa ideia.
 
 Dei meu CPF? Ativa logo todos os descontos. Pronto! Nem era pra pedir. Era pra dar desconto pra todo mundo. Mas quer clubinho? Tá… Mas não me faz ter de cancelar toda a compra e ficar meia hora no caixa tentando achar onde estava o desconto do papel higiênico que a pessoa fica repetindo, já com raiva sei lá se de mim, do supermercado, da vida ou de si mesma, que se eu não ativar o tal desconto mundo vai acabar, explodir ou sei lá.
 
