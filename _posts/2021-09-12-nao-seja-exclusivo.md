@@ -60,7 +60,7 @@ Lembrei de tudo isso porque sábado agora fui fazer minhas habituais operações
 
 ## O “clubinho” de novo
 
-Aí esse “clubinho”… É claro que precisava existir, sabe? Por conta duma dessas empresas “lean”, “digital não-sei-o-quê”, “transformadores de *p* nenhuma" ou seja lá que nome o *marketing* decidiu usar nessa semana. Como para poder usufruir do clubinho tinha de haver de uma *app* “disruptiva”, “inovadora”, “ágil” e o escambau. E só através dela é possível ter descontos ou "vantagens".
+Aí esse “clubinho”… É claro que precisava existir, sabe? Por conta duma dessas empresas “lean”, “digital não-sei-o-quê”, “transformadores de *p* nenhuma" ou seja lá que nome o *marketing* decidiu usar nessa semana. Como para poder usufruir do clubinho tinha de haver uma *app* “disruptiva”, “inovadora”, “ágil” e o escambau. E só através dela é possível ter descontos ou "vantagens".
 
 É assim: você entra no supermercado com seu filho mais novo no colo, sua filha exploradora e curiosa andando por todo lugar menos onde você queria que ela estivesse, um carrinho de supermercado desengonçado empurrado com a outra mão e na terceira mão você segura o celular, que é bom estar com bateria carregada para aguentar até o final das compras, que tenha acesso ao 3G, portanto com crédito e/ou a fatura paga. Tentando saber o que há nos balcões com disposição mutante a cada dia (*a la* Stephen King) para ver se bate com o que você precisa comprar.
 
