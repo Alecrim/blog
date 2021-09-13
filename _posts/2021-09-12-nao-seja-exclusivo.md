@@ -39,7 +39,7 @@ O moço era bom, o conceito ao que foi obrigado a moldar sua fala é que não.
 
 ## Exclusivo: o oposto de inclusivo
 
-O que o moço queria mesmo dizer é que caso eu comprasse o tal carro entraria para um seleto grupo de pessoas, principalmente no Brasil: aqueles que podem comprá-lo. E aqui chegamos: esse exclusivo é o oposto de inclusivo! E tem gente que acha isso bonito. Tem gente que ostenta isso. Tem gente que corrompe e é corrompido por isso. Tem gente que mata ou é morto por isso. Tem gente que… Você pegou a ideia.
+O que o moço queria mesmo dizer é que caso eu comprasse o tal carro entraria para um seleto grupo de pessoas, principalmente no Brasil: aqueles que podem comprá-lo. E aqui chegamos. Esse exclusivo é o oposto de inclusivo! E tem gente que acha isso bonito. Tem gente que ostenta isso. Tem gente que corrompe e é corrompido por isso. Tem gente que mata ou é morto por isso. Tem gente que… Você pegou a ideia.
 
 Se algo é o oposto de inclusivo, eu tô fora (desculpem o trocadilho infame). 
 
