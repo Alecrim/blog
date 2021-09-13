@@ -105,7 +105,7 @@ Aí vem a pessoa que gerencia ou supervisiona, que já tentei conversar em outra
 
 Veio o tal gerente cancelar a compra sem nem responder o que eu tinha perguntado; depois jogar um papel de reclamação em cima de mim com uma caneta anexa quando pedi para saber como reclamaria formalmente do mau atendimento e passei naquele momento a incluir o nome dele na reclamação. Paralelamente e de esgueio, vendo que seu nome constava ali, começou a gritar comigo e só chamando outra pessoa de outro lugar na hierarquia eu fui conseguir uma promessa que algo seria feito e o papel que escrevi não seria jogado no lixo logo após a minha saída.
 
-E eu expliquei pra ele, e não foi a primeira vez… Que sim, eles podem errar. Que sim, eu posso errar. Podemos perder a paciência, mas jamais o respeito. Podemos nos exaltar, mas não brigar. E é o que acontece na maior parte da vezes que reclamo de algo na casa do pó branco. Infelizmente,
+E eu expliquei pra ele, e não foi a primeira vez… Que sim, eles podem errar. Que sim, eu posso errar. Podemos perder a paciência, mas jamais o respeito. Podemos nos exaltar, mas não brigar. E é o que acontece na maior parte da vezes que reclamo de algo na casa do pó branco. Infelizmente.
 
 Para ser justo: há pessoas lindas lá em todos os sentidos, que nos atendem, a mim e a minha esposa, com competência, educação e genuína gentileza. Seremos clientes deles para sempre onde quer que forem, mesmo que em outro supermercado, mesmo que em qualquer outro ramo ou lugar para onde queiram seguir.
 
