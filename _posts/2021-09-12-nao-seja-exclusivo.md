@@ -43,7 +43,7 @@ O que o moço queria mesmo dizer é que caso eu comprasse o tal carro entraria p
 
 Se algo é o oposto de inclusivo, eu tô fora (desculpem o trocadilho infame). 
 
-Toda vez que alguém quer ostentar um *status* por qualquer coisa que seja, pode ser material, intelectual, hierárquica, social, étnica, histórica, real ou falsa, não importa: quer mostrar como ele ou ela está em outra casta, uma superior. Que aquilo só ele e poucos do seu clube podem acessar, usufruir ou mostrar. E é assim que as coisas são e é assim que as coisas funcionam e é assim que as coisas devem continuar.
+Toda vez que alguém quer ostentar um *status* por qualquer coisa que seja, pode ser material, intelectual, espiritual, hierárquica, social, étnica, histórica, real ou falsa, não importa: quer mostrar como ele ou ela está em outra casta, uma superior. Que aquilo só ele e poucos do seu clube podem acessar, usufruir ou mostrar. E é assim que as coisas são e é assim que as coisas funcionam e é assim que as coisas devem continuar.
 
 É mesmo?
 
