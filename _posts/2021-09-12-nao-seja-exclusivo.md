@@ -17,7 +17,7 @@ description: Exclusivo a exclusivo, não sobrará um de nós no universo.
 
 ## Extra! Extra!
 
-Quando ouvimos algo sobre exclusividade derivamos logo o sentido de "furo de reportagem". Algo como "Extra! Extra! Exclusivo! Temos gravada a confissão de genocídio pelo genocida!" significando que só aquele veículo de comunicação teve acesso ao material jornalístico e vai divulgá-lo antes de qualquer outro e só será possível acessar a informação através dele, excluindo-se todos os outros meios possíveis.
+Quando ouvimos algo sobre exclusividade derivamos logo o sentido de "furo de reportagem". Algo como "Extra! Extra! Exclusivo! Temos gravada a confissão de genocídio pelo genocida!" significando que só aquele veículo de comunicação teve acesso ao material jornalístico e vai divulgá-lo antes de qualquer outro e só será possível acessar a informação através dele, excluindo-se todos os outros meios.
 
 ## "Mais exclusivo, né?"
 
