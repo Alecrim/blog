@@ -145,6 +145,6 @@ Claro que há coisas que elas podem ou não conseguir fazer. O que quero dizer, 
 
 Por fim: preciso mesmo ter celular ou participar de algum clubinho para ser tratado com um mínimo dignidade e, talvez, como ser humano?
 
-Eu gostaria muito que a resposta dos frutos da sua empresa (e não apenas o que ela prega) seja um imenso não.
+Eu gostaria muito que a resposta dos frutos da sua empresa (e não apenas o que ela prega) seja um imenso não. E um imenso sim ao fato de que para ser tratado como ser humano, com educação, com gentileza e com dignidade, como todo ser humano mais que merece, basta ser humano e basta existir.
 
 Senão, incluindo esses e aqueles que se acham elite de alguma coisa, exclusivo a exclusivo, não sobrará um de nós no universo.
