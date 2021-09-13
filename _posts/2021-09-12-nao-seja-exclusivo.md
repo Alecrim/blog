@@ -87,7 +87,7 @@ Enfim… Exclui. E se exclui, a promoção não é para todos. Só para quem ele
 
 Muitos dirão que fazer “clubinhos” de “vantagens” é um direito do estabelecimento para “fildelizar” o cliente. Mesmo que seja: quer “fidelizar”? Tenha bons produtos a preços justos e tenha excelência no atendimento. Pronto. Fidelizou.
 
-Agora, quer fazer de conta, caia fora. Quer bancar o legallzão? Seja legal e todos saberão.
+Agora, quer fazer de conta, caia fora. Quer bancar o legalzão? Seja legal e todos saberão.
 
 Minimamente não dependa de um aplicativo para que a pessoa tenha direito ao desconto. Muito menos ter de ficar horas procurando onde é que estava a cabeça do CEO ou CTO ou CBO da empresa, seja do supermercado ou da empresa que desenvolveu o aplicativo, quando achou ou acharam que isso seria boa ideia.
 
