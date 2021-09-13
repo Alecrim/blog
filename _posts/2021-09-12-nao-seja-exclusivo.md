@@ -143,8 +143,8 @@ O que eu quero? Quero que as pessoas, todas elas, sejam bem tratadas e saibam o 
 
 Claro que há coisas que elas podem ou não conseguir fazer. O que quero dizer, porém, é que há coisas que **as empresas têm o dever de fazer** , mas escolhem, dia após dia, hora após hora, não fazer. Preferem tratar seus funcionários e clientes como nadas. Mesmo aqueles que ainda estão lhe rendendo dinheiro.
 
-Por fim: preciso mesmo ter celular ou participar de algum clubinho para ser tratado com um mínimo dignidade e, talvez, como ser humano?
+Por fim: preciso mesmo ter celular ou participar de algum clubinho para ser tratado com um mínimo dignidade e, talvez, como ser humano? Eu gostaria muito que a resposta dos frutos da sua empresa (e não apenas o que ela prega) seja um imenso **não**.
 
-Eu gostaria muito que a resposta dos frutos da sua empresa (e não apenas o que ela prega) seja um imenso não. E um imenso sim ao fato de que para ser tratado como ser humano, com educação, com gentileza e com dignidade, como todo ser humano mais que merece, basta ser humano e basta existir.
+Como também gostaria, para o bem de todos, inclusive o seu, que fosse um imenso **sim** a resposta sua e da sua empresa ao fato de que, para ser tratado como ser humano, com educação, com gentileza e com dignidade, como todo ser humano mais que merece, basta ser humano e basta existir.
 
-Senão, incluindo esses e aqueles que se acham elite de alguma coisa, exclusivo a exclusivo, não sobrará um de nós no universo.
+Senão, incluindo esses, você e aqueles que se acham elite de alguma coisa, exclusivo a exclusivo, não sobrará um de nós no universo.
