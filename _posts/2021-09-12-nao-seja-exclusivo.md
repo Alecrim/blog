@@ -72,7 +72,7 @@ Bem, alguns *b* dirão: “Se ela está com essa dificuldade toda, não deveria 
 
 O problema é que nem o supermercado nem aquele carro são tão bons assim. Muito pelo contrário. É o mínimo do mínimo e às vezes nem isso. Mas, como sabemos, hoje pra ter migalhas de bons produtos e boa educação, só se você for Prime-VanGogh-Personnalité e às vezes nem isso.
 
-Então sim: essa pessoa está lá no mercado do pó e tem todo o direito de estar lá quanto qualquer outro cidadão. Seja lá o que aparente ter ou que tenha: é uma pessoa. Ser uma pessoa é o requisito possível e necessário para ser bem tratado.
+Então sim: essa pessoa está lá no mercado do pó e tem todo o direito de estar lá quanto qualquer outro cidadão. Seja lá o que aparente ter ou que tenha: é uma pessoa. Ser uma pessoa é único requisito possível e necessário para ser bem tratado.
 
 Porque senão dirão nas OKRs das KPIs das PQPs que querem “encantar” o cliente. Enfeitiçando-o para entrar no mesma clima do churrasco alucinógeno que você e os outros CEOs e CTOs e sabem-se lá quais mais siglas, fizeram aglormerando-se sem máscara no final de semana, aparentando se autocongratular enquanto, na ausência de volume em certos lugares no corpo, tentam compensar no tamanho do carro, da casa ou… Eu ia falar de iate, mas a classe que se acha “elite” neste país tem dinheiro pra isso não. Porque nem ricos de verdade são. E em sentido algum. Agora quanto ao financeiro, ricos mesmos aqui são só uns cinco entre mais de duzentos milhões.
 
