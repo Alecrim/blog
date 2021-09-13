@@ -91,7 +91,7 @@ Agora, quer fazer de conta, caia fora. Quer bancar o legalzão? Seja legal de ve
 
 Minimamente não dependa de um aplicativo para que a pessoa tenha direito ao desconto. Muito menos ter de ficar horas procurando onde é que estava a cabeça do CEO ou CTO ou CBO, seja do supermercado ou da empresa que desenvolveu o aplicativo, quando achou ou acharam que isso seria boa ideia.
 
-Dei meu CPF? Ativa logo todos os descontos. Pronto! Nem era pra pedir. Era pra dar desconto pra todo mundo. Mas quer clubinho? Tá… Mas não me faz ter de cancelar toda a compra e ficar meia hora no caixa tentando achar onde estava o desconto do papel higiênico que a pessoa fica repetindo, já com raiva sei lá se de mim, do supermercado, da vida ou de si mesma, que se eu não ativar o tal desconto mundo vai acabar, explodir ou sei lá.
+Dei meu CPF? Ativa logo todos os descontos. Pronto! Nem era pra pedir. Era pra dar desconto pra todo mundo. Mas quer clubinho? Tá… Mas não me faz ter de cancelar toda a compra e ficar meia hora no caixa tentando achar onde estava o desconto do papel higiênico que a pessoa do caixa fica repetindo, já com raiva sei lá se de mim, do supermercado, da vida ou de si mesma, que se eu não ativar o tal desconto mundo vai acabar, explodir ou sei lá.
 
 De qualquer forma, o supermercado é claro comigo, em qualquer esfera, por qualquer meio, por qualquer cargo: se eu estiver sem celular, não tenho direito ao desconto. Se não posso comprar um celular, não tenho direito ao desconto. Se não consigo instalar o aplicativo, não tenho direito ao desconto. Se não tenho internet, não tenho desconto. Se não consigo enxergar ou achar onde está a minúscula célula que devo apertar, não tenho desconto.
 
