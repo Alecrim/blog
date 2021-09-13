@@ -141,7 +141,7 @@ Não sabe o que é isso? Experimente ficar sem dinheiro para pagar o aluguel, a 
 
 O que eu quero? Quero que as pessoas, todas elas, sejam bem tratadas e saibam o que é tratar bem. E entendam porque ambas as coisas são importantes.
 
-Claro que há coisas que elas podem ou não conseguir fazer. O que quero dizer, porém, é que há coisas que **as empresas têm o dever de fazer** , mas escolhem, dia após dia, hora após hora, não fazer. Preferem tratar seus funcionários e clientes como nadas. Mesmo aqueles que ainda estão lhe rendendo dinheiro.
+Claro que há coisas que elas podem ou não conseguir fazer. O que quero dizer, porém, é que há coisas que **as empresas têm o dever de fazer**, mas escolhem, dia após dia, hora após hora, não fazer. Preferem tratar seus funcionários e clientes como nadas. Mesmo aqueles que ainda estão lhe rendendo dinheiro.
 
 Por fim: preciso mesmo ter celular ou participar de algum clubinho para ser tratado com um mínimo dignidade e, talvez, como ser humano? Eu gostaria muito que a resposta dos frutos da sua empresa (e não apenas o que ela prega) seja um imenso **não**.
 
