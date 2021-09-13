@@ -137,7 +137,7 @@ A melhor forma para boa parte dos problemas atuais nas empresas, não só por aq
 
 Perder o emprego hoje no Brasil, para a maioria dos brasileiros, é o mesmo que entrar num filme de terror. Pior que isso: é como entrar numa espécie de não-vida. Ser considerado uma não-pessoa.
 
-Não sabe o que é isso? Experimente ficar sem dinheiro para pagar o aluguel, a energia elétrica, a água, o telefone e, principalmente, a comida. Em pouquíssimo tempo você e os seus, não importa as cores das suas bandeiras, serão mais que invisíveis para a sociedade que tanto lhe tratava bem enquanto seu cartão passava. Serão tratados como indesejáveis, nojentas e sim, não-pessoas, não-cidadãos, já que não mais clientes.
+Não sabe o que é isso? Experimente ficar sem dinheiro para pagar o aluguel, a energia elétrica, a água, o telefone e, principalmente, a comida. Em pouquíssimo tempo você e os seus, não importa as cores das suas bandeiras, serão mais que invisíveis para a sociedade que tanto lhe tratava bem enquanto seu cartão passava. Serão tratados como indesejáveis, nojentas e sim, não-pessoas, não-cidadãos, já que não mais clientes ou consumidores.
 
 O que eu quero? Quero que as pessoas, todas elas, sejam bem tratadas e saibam o que é tratar bem. E entendam porque ambas as coisas são importantes.
 
