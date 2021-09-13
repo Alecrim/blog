@@ -97,7 +97,7 @@ De qualquer forma, o supermercado é claro comigo, em qualquer esfera, por qualq
 
 Se isso não é exclusão, discriminação e preconceito, o que seria? E o que fazer? Ligar para o Procon? Chamar um exorcista especialista em burrice-ostentação-coletiva?
 
-Poder-se-ia dizer que diante tantas outras coisas absurdas, isso é um “problema de primeiro mundo”. Mas não, não é. Alguns reais a menos no papel higiênico seriam de bom grado virar um quilo a mais de feijão no carrinho. Se você não vive esse problema nem precisa disso, que bom. Mas então é bom mesmo começar a fazer parte da solução.
+Poder-se-ia dizer que diante tantas outras coisas absurdas, isso é um “problema de primeiro mundo”. Mas não, não é. Alguns reais a menos no papel higiênico poderiam virar de bom grado um quilo a mais de feijão no carrinho. Se você não vive esse problema nem precisa disso, que bom. Mas então é bom mesmo começar a fazer parte da solução. O que você faz com o seu privilégio?
 
 ## “Assinado, a Gerência”
 
