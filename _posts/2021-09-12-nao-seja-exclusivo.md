@@ -5,7 +5,7 @@ author: Vanderlei Martinelli
 date: 2021-09-12T23:00:00-03:00
 lang: pt
 lang-ref: do-not-be-exclusive
-image: https://images.unsplash.com/photo-1601598851547-4302969d0614?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&h=300&q=80
+image: https://images.unsplash.com/photo-1601598851547-4302969d0614?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&h=500&q=80
 imagecredit_id: '@eduschadesoares'
 imagecredit_name: 'Eduardo Soares'
 opengraph_type: article
