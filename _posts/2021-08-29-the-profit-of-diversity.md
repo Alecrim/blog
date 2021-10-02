@@ -13,6 +13,7 @@ category: Opinion
 tags: [cinema, culture, diversity, society, streaming, technology, TV, Netflix]
 description: Netflix has done more for series production than television networks in decades. It has done more for cinema than the cinema “industry” has done in decades. All this is because of the promotion and appreciation of diversity.
 ---
+
 {% include unsplash_image.md %}
 
 Netflix has done more for series production than television networks in decades. It has done more for cinema than the cinema “industry” has done in decades. All this is because of the promotion and appreciation of diversity.
@@ -39,7 +40,7 @@ One of the greatest profits, certainly not the only one, arising from diversity 
 
 That’s why companies like Netflix, at least for now, are so well-liked by their subscribers. People are even willing (when they have resources and understand it makes sense) to pay more just to continue being like this: diverse.
 
-[1]:	https://www.imdb.com/title/tt13495314
-[2]:	https://twitter.com/vmartinelli
-[3]:	https://www.imdb.com/title/tt4922804
-[4]:	https://twitter.com/danilibardi
+[1]:    https://www.imdb.com/title/tt13495314
+[2]:    https://twitter.com/vmartinelli
+[3]:    https://www.imdb.com/title/tt4922804
+[4]:    https://twitter.com/danilibardi

@@ -13,6 +13,7 @@ category: Opinion
 tags: []
 description: Exclusivo a exclusivo, não sobrará um de nós no universo.
 ---
+
 {% include unsplash_image.md %}
 
 ## Extra! Extra!
@@ -56,6 +57,7 @@ Faço tudo isso com perfeição? Não. Até porque “perfeito” é algo feito 
 Convido aos caretas que nunca ouviram falar da novena de Dona Canô a experimentarem também. O bem faz bem. E dá até dinheiro (tem outro artigo meu aqui falando sobre isso), se é a única coisa que você quer.
 
 ## O pó branco que vicia
+
 Lembrei de tudo isso porque sábado agora fui fazer minhas habituais operações de guerra, digo, compras semanais (e como chamar compras triviais num estado de pandemia que, pasmem, ainda não acabou?). E nesse mercado cujo nome tem referência a um pó branco que vicia e pode até matar, tem um clubinho. Não é novidade. Acho que todo lugar agora tem algum tipo desses. Inscrevi-me. Até porque há esses descontos e também possíveis panelas de “brinde” caso você gaste R$ 10.000,00 em duas semanas em compras, pregando selinhos num lugar diminuto e pagando uma diferença de R$ 2.000,00 ao final (tá, os valores e prazos são outros, mas não são tão diferentes).
 
 ## O “clubinho” de novo
@@ -77,6 +79,7 @@ Então sim: essa pessoa está lá no mercado do pó e tem todo o direito de esta
 Porque senão dirão nas OKRs das KPIs das PQPs que querem “encantar” o cliente. Enfeitiçando-o para entrar no mesma clima do churrasco alucinógeno que você e os outros CEOs e CTOs e sabem-se lá quais mais siglas, fizeram aglormerando-se sem máscara no final de semana, aparentando se autocongratular enquanto, na ausência de volume em certos lugares no corpo, tentam compensar no tamanho do carro, da casa, da empresa, ou… Eu ia falar de iate, mas a classe que se acha “elite” neste país tem dinheiro pra isso não. Porque nem ricos de verdade são. E em sentido algum. Agora quanto ao financeiro, ricos mesmos aqui são só uns cinco entre mais de duzentos milhões.
 
 # Os atentados
+
 O fato é que além de ser um atentado a acessibilidade, ter de “ativar” as ofertas no tal aplicativo  é exclusivo. E tudo que é exclusivo, como já sabemos, está excluindo alguém. 
 
 Nunca vai ser demais: "exclusivo" não é bonito nem bom nem nada que preste.
