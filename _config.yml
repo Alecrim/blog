@@ -9,7 +9,7 @@ baseurl: ''
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
-lang: en
+lang: pt-BR
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Sao_Paulo
@@ -18,30 +18,30 @@ timezone: America/Sao_Paulo
 # ↓ --------------------------
 
 title: Alecrim                         # the main title
-tagline: Humanidades e Tecnologias     # it will display as the sub-title
+tagline: Humanidades & Tecnologias     # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
-  Humanity and technology.
-  Together.
+  Humanidade e tecnologia.
+  Juntas e em português.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.alecrim.com'
 
 github:
-  username: vmartinelli               # change to your github username
+  username: vmartinelli
 
 twitter:
-  username: vmartinelli               # change to your twitter username
+  username: vmartinelli
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Vanderlei Martinelli
-  email: vmartinelli@alecrim.com      # change to your email address
+  email: vmartinelli@alecrim.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/vmartinelli      # change to your twitter homepage
-    - https://github.com/vmartinelli       # change to your github homepage
-    # - https://www.linkedin.com/in/vmartinelli
+    - https://twitter.com/vmartinelli
+    - https://github.com/vmartinelli
+    - https://www.linkedin.com/in/vmartinelli
 
 # google_site_verification: google_meta_tag_verification # change to your verification string
 

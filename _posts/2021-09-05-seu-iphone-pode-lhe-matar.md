@@ -5,16 +5,16 @@ author: Vanderlei Martinelli
 date: 2021-09-05T18:00:00-03:00
 lang: pt
 lang-ref: your-iphone-can-really-kill-you
-image: https://images.unsplash.com/photo-1516733968668-dbdce39c4651?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1600&q=80
+image: https://images.unsplash.com/photo-1516733968668-dbdce39c4651
 imagecredit_id: '@xokvictor'
 imagecredit_name: 'Viktor Bystrov'
 opengraph_type: article
-category: Opinion
-tags: [iPhone, iOS, UI, UX, battery, notification, death, modal, alert, Apple]
+category: Opinião
+tags: [iPhone, iOS, UI, UX, bateria, notificação, morte, modal, alerta, Apple]
 description: Sua vida vale menos que quinze minutos do tempo de um bom programador dentro da Apple. Ao menos para a Apple e mais um monte de gente. Entenda.
 ---
 
-{% include unsplash_image.md %}
+![Imagem](https://images.unsplash.com/photo-1516733968668-dbdce39c4651?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=900&q=80)
 
 ## Coisas muito mal feitas
 
@@ -130,4 +130,4 @@ Enfim… Feito este “pequeno” desabafo com uma infinidade de *footnotes*, sa
 [^8]: Que vai vender até minha respiração para anunciantes e cada localidade minha para os governos.
 [^9]: “Quilômetros por hora”… Sim, eu sei que é um negócio muito maluco, muito difícil de entender para certa parte do mundo. Para a outra parte é o que se usa para medir a velocidade de um veículo. E olha que “disruptivo” e “inovador”: 10 milímetros viram 1 centímetro; 100 centímetros viram 1 metro; 1000 metros viram 1 quilômetro. Como ninguém pensou nisso antes?
 [^10]: Aquele que foi comprado pelo Google para virar cópia do BlackBerry quando entenderam que estavam olhando na direção errada e então resolveram copiar o iOS (que na época era conhecido como Mac OS X rodando em celular e no ano seguinte foi nomeado iPhone OS).
-[^11]: Quem sabe no dia em que Apple a me “deixar” morar onde eu quero morar e não onde ela queira que eu more?
+[^11]: Quem sabe no dia em que Apple a me “deixar” morar onde eu quero morar e não onde ela queira que eu more

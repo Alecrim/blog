@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre
 author: Vanderlei Martinelli
 icon: fas fa-info
 order: 4
