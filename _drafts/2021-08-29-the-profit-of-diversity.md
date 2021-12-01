@@ -22,7 +22,7 @@ Several unique and phenomenal productions from various countries to succeed depe
 
 People, simple or sophisticated, love dignity, creativity and excellence.
 
-Today, finally, a Polish [programme][1]{:target='_blank'} can be seen and appreciated by a person in Piracicaba ([me][2]{:target='_blank'}). A person in Poland can watch and enjoy a [programme][3]{:target='_blank'} co-directed by a *piracicabana* ([Dani Libardi][4]{:target='_blank'}).
+Today, finally, a Polish [programme][1] can be seen and appreciated by a person in Piracicaba ([me][2]). A person in Poland can watch and enjoy a [programme][3] co-directed by a *piracicabana* ([Dani Libardi][4]).
 
 Diversity of people brings diversity of ideas.
 

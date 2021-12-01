@@ -22,7 +22,7 @@ Várias produções únicas e fenomenais de vários países para ter sucesso só
 
 As pessoas, por mais simples ou sofisticadas que sejam, amam a dignidade, a criatividade e a excelência.
 
-Hoje, finalmente, uma [série][1]{:target='_blank'} polonesa pode ser vista e apreciada por uma pessoa em Piracicaba ([eu][2]{:target='_blank'}). Uma pessoa na Polônia pode assistir e apreciar uma [série][3]{:target='_blank'} co-dirigida por uma piracicabana ([Dani Libardi][4]{:target='_blank'}).
+Hoje, finalmente, uma [série][1] polonesa pode ser vista e apreciada por uma pessoa em Piracicaba ([eu][2]). Uma pessoa na Polônia pode assistir e apreciar uma [série][3] co-dirigida por uma piracicabana ([Dani Libardi][4]).
 
 A diversidade de pessoas traz diversidade de ideias.
 
