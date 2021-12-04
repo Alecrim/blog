@@ -16,6 +16,8 @@ description: A Netflix já fez mais pela produção de séries do que as redes d
 
 ![Imagem](https://images.unsplash.com/photo-1530695440407-21fef47230b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=900&q=80)
 
+# O Lucro da Diversidade
+
 A Netflix já fez mais pela produção de séries do que as redes de televisão em décadas. Já fez mais pelo cinema que a “indústria” do cinema fez em décadas. Tudo isto por conta da fomentação e da valorização da diversidade.
 
 Várias produções únicas e fenomenais de vários países para ter sucesso só dependiam de recursos técnicos, logísticos e financeiros, depois uma boa divulgação e grande visibilidade.

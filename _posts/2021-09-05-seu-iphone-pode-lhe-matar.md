@@ -16,6 +16,8 @@ description: Sua vida vale menos que quinze minutos do tempo de um bom programad
 
 ![Imagem](https://images.unsplash.com/photo-1516733968668-dbdce39c4651?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=900&q=80)
 
+# Seu iPhone pode lhe matar. Sério!
+
 ## Coisas muito mal feitas
 
 Sua vida vale menos que quinze minutos do tempo de um bom programador dentro da Apple. Ao menos para a Apple e mais um monte de gente. Entenda.
