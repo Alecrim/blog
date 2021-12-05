@@ -84,4 +84,5 @@ exclude:
   - gulpfile.js
   - node_modules
   - '*.json'
+  - vendor/
 
