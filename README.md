@@ -1,59 +1,23 @@
-# Chirpy Starter [![Gem Version][image-1]][1] [![GitHub license][image-2]][2]
+# Mediumish - Jekyll Theme
+
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
 
-The startup template for [**Jekyll Theme Chirpy**][3].
+### Copyright
 
-When installing the **Chirpy** theme through [RubyGems][4], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. (You can find the gem files by using the command `bundle info --path jekyll-theme-chirpy`). To fully use all the features of **Chirpy**, you need to copy the other critical files/directories from the theme's gem to your Jekyll site.
+Copyright (C) 2019 Sal, https://www.wowthemes.net
 
-The critical files/directories to run or build the **Chirpy** theme are as follows:
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
 
-```shell
-.
-├── _data
-├── _plugins
-├── _tabs
-├── _config.yml
-└──  index.html
-```
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-So we've extracted all the **Chirpy** gem necessary content here to help you get started quickly.
+### Contribute
 
-## Installation
+1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
 
-[Use this template][5] to generate a new repository, and then execute:
-
-```
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs][6].
-
-## Upgrading
-
-First, please modify the target version number of `jekyll-theme-chirpy` in the `Gemfile` (e.g., `gem "jekyll-theme-chirpy", "~> 4.0", ">= 4.0.1"`).
-
-After that, execute the following command:
-
-```console
-$ bundle update jekyll-theme-chirpy
-```
-
-As the version upgrades, the critical files and configuration options will change. Please refer to the [Upgrade Guide][7] to keep your website files in sync with the latest version of the theme.
-
-## License
-
-This work is published under [MIT][8] License.
-
-[1]:	https://rubygems.org/gems/jekyll-theme-chirpy
-[2]:	https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
-[3]:	https://github.com/cotes2020/jekyll-theme-chirpy/
-[4]:	https://rubygems.org/gems/jekyll-theme-chirpy
-[5]:	https://github.com/cotes2020/chirpy-starter/generate
-[6]:	https://github.com/cotes2020/jekyll-theme-chirpy#usage
-[7]:	https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide
-[8]:	https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
-
-[image-1]:	https://img.shields.io/gem/v/jekyll-theme-chirpy
-[image-2]:	https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue
+Thank you!

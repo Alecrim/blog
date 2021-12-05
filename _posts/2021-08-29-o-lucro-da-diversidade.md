@@ -1,22 +1,20 @@
 ---
+
 layout: post
 title: O Lucro da Diversidade
-author: Vanderlei Martinelli
+author: van
 date: 2021-08-29T16:45:00-03:00
 lang: pt-BR
 lang-ref: the-profit-of-diversity
-image: https://images.unsplash.com/photo-1530695440407-21fef47230b1
+image: "https://images.unsplash.com/photo-1530695440407-21fef47230b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=900&q=80"
 imagecredit_id: '@bacila_vlad'
 imagecredit_name: 'Bacila Vlad'
 opengraph_type: article
 category: Opinião
 tags: [cinema, cultura, diversidade, sociedade, streaming, tecnologia, TV, Netflix]
 description: A Netflix já fez mais pela produção de séries do que as redes de televisão em décadas. Já fez mais pelo cinema que a “indústria” do cinema fez em décadas. Tudo isto por conta da fomentação e da valorização da diversidade.
+
 ---
-
-![Imagem](https://images.unsplash.com/photo-1530695440407-21fef47230b1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=900&q=80)
-
-# O Lucro da Diversidade
 
 A Netflix já fez mais pela produção de séries do que as redes de televisão em décadas. Já fez mais pelo cinema que a “indústria” do cinema fez em décadas. Tudo isto por conta da fomentação e da valorização da diversidade.
 

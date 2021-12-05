@@ -1,22 +1,22 @@
 ---
+
 layout: post
 title: Seu iPhone pode lhe matar. Sério!
-author: Vanderlei Martinelli
+author: van
 date: 2021-09-05T18:00:00-03:00
 lang: pt-BR
 lang-ref: your-iphone-can-really-kill-you
-image: https://images.unsplash.com/photo-1516733968668-dbdce39c4651
+featured: true
+hidden: true
+image: "https://images.unsplash.com/photo-1516733968668-dbdce39c4651?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=900&q=80"
 imagecredit_id: '@xokvictor'
 imagecredit_name: 'Viktor Bystrov'
 opengraph_type: article
 category: Opinião
 tags: [iPhone, iOS, UI, UX, bateria, notificação, morte, modal, alerta, Apple]
 description: Sua vida vale menos que quinze minutos do tempo de um bom programador dentro da Apple. Ao menos para a Apple e mais um monte de gente. Entenda.
+
 ---
-
-![Imagem](https://images.unsplash.com/photo-1516733968668-dbdce39c4651?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=900&q=80)
-
-# Seu iPhone pode lhe matar. Sério!
 
 ## Coisas muito mal feitas
 
