@@ -73,6 +73,10 @@ lazyimages: "disabled"
 
 # exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 exclude:
+  - tmp/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
   - '*.gem'
   - '*.gemspec'
   - tools
@@ -82,7 +86,6 @@ exclude:
   - README.md
   - LICENSE
   - gulpfile.js
+  - favicon.ico
   - node_modules
   - '*.json'
-  - vendor/
-
