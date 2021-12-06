@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: Não Seja Exclusivo
 author: van
