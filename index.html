@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Início
 ---
 {% if page.url == "/" %}
 
@@ -8,13 +8,11 @@ title: Home
 ================================================== -->
 <section class="featured-posts">
     <div class="section-title">
-        <h2><span>Destaques</span></h2>
+        <h2><span>Recentes</span></h2>
     </div>
     <div class="row">
-    {% for post in site.posts %}
-        {% if post.featured == true %}
-            {% include featuredbox.html %}
-        {% endif %}
+    {% for post in site.posts limit:2 %}
+        {% include featuredbox.html %}
     {% endfor %}
     </div>
 </section>
@@ -25,12 +23,12 @@ title: Home
 ================================================== -->
 <section class="recent-posts">
     <div class="section-title">
-        <h2><span>Recentes</span></h2>
+        <h2><span>Mais Postagens</span></h2>
     </div>
 
     <div class="row listrecent">
-        {% for post in paginator.posts %}
-        {% include postbox.html %}
+        {% for post in paginator.posts offset:2 %}
+            {% include postbox.html %}
         {% endfor %}
     </div>
 </section>
