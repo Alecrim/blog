@@ -16,12 +16,11 @@ tags: []
 description: Exclusivo a exclusivo, não sobrará um de nós no universo.
 excerpt: Exclusivo a exclusivo, não sobrará um de nós no universo.
 ---
-## Extra! Extra!
 
+## Extra! Extra!
 Quando ouvimos algo sobre exclusividade derivamos logo o sentido de "furo de reportagem". Algo como "Extra! Extra! Exclusivo! Temos gravada a confissão de genocídio pelo genocida!" significando que só aquele veículo de comunicação teve acesso ao material jornalístico e vai divulgá-lo antes de qualquer outro e só será possível acessar a informação através dele, excluindo-se todos os outros meios.
 
 ## "Mais exclusivo, né?"
-
 Exclusividade, porém e boa parte das vezes, é usada noutro contexto bem conhecido pelos brasileiros, seja lá de que lado do muro do condomínio vivem.
 
 Lembro de uma vez, andando por um *shopping center* em São Paulo (a meca desse ramo de atividade no Brasil). Cara de pau que sou, vou entrando em qualquer veículo que esteja em exposição.
@@ -39,7 +38,6 @@ Só depois de muito tempo comecei a entender como será o meu futuro, como será
 O moço era bom, o conceito ao que foi obrigado a moldar sua fala é que não.
 
 ## Exclusivo: o oposto de inclusivo
-
 O que o moço queria mesmo dizer é que caso eu comprasse o tal carro entraria para um seleto grupo de pessoas, principalmente no Brasil: aqueles que podem comprá-lo. E aqui chegamos. Esse exclusivo é o oposto de inclusivo! E tem gente que acha isso bonito. Tem gente que ostenta isso. Tem gente que corrompe e é corrompido por isso. Tem gente que mata ou é morto por isso. Tem gente que… Você pegou a ideia.
 
 Se algo é o oposto de inclusivo, eu tô fora (desculpem o trocadilho infame). 
@@ -49,7 +47,6 @@ Toda vez que alguém quer ostentar um *status* por qualquer coisa que seja, pode
 É mesmo?
 
 ## Careta, quem é você?
-
 Quem se dá ao trabalho de me conhecer minimamente (ao contrário de quem vem me medir pela própria régua ou, pior, por réguas que colocaram em suas mãos, sem nem me olhar direito nos olhos) sabe que permeiam nas minhas atitudes, muito mais até que no meu discurso, a inclusão, a diversidade e a acessibilidade.
 
 Faço tudo isso com perfeição? Não. Até porque “perfeito” é algo feito por completo. Como não morri, nada vai ser feito por completo na minha vida. Nem mesmo depois dela. Mas me esforço bastante para que o progresso seja genuíno e não apenas propaganda. É um processo gratificante e sem fim. Com benefícios para todos.
@@ -57,11 +54,9 @@ Faço tudo isso com perfeição? Não. Até porque “perfeito” é algo feito 
 Convido aos caretas que nunca ouviram falar da novena de Dona Canô a experimentarem também. O bem faz bem. E dá até dinheiro (tem outro artigo meu aqui falando sobre isso), se é a única coisa que você quer.
 
 ## O pó branco que vicia
-
 Lembrei de tudo isso porque sábado agora fui fazer minhas habituais operações de guerra, digo, compras semanais (e como chamar compras triviais num estado de pandemia que, pasmem, ainda não acabou?). E nesse mercado cujo nome tem referência a um pó branco que vicia e pode até matar, tem um clubinho. Não é novidade. Acho que todo lugar agora tem algum tipo desses. Inscrevi-me. Até porque há esses descontos e também possíveis panelas de “brinde” caso você gaste R$ 10.000,00 em duas semanas em compras, pregando selinhos num lugar diminuto e pagando uma diferença de R$ 2.000,00 ao final (tá, os valores e prazos são outros, mas não são tão diferentes).
 
 ## O “clubinho” de novo
-
 Aí esse “clubinho”… É claro que precisava existir, sabe? Por conta duma dessas empresas “lean”, “digital não-sei-o-quê”, “transformadores de *p* nenhuma" ou seja lá que nome o *marketing* decidiu usar nessa semana. Como para poder usufruir do clubinho tinha de haver uma *app* “disruptiva”, “inovadora”, “ágil” e o escambau. E só através dela é possível ter descontos ou "vantagens".
 
 É assim: você entra no supermercado com seu filho mais novo no colo, sua filha exploradora e curiosa andando por todo lugar menos onde você queria que ela estivesse, um carrinho de supermercado desengonçado empurrado com a outra mão e na terceira mão você segura o celular, que é bom estar com bateria carregada para aguentar até o final das compras, que tenha acesso ao 3G, portanto com crédito e/ou a fatura paga. Tentando saber o que há nos balcões com disposição mutante a cada dia (*a la* Stephen King) para ver se bate com o que você precisa comprar.
@@ -76,10 +71,9 @@ O problema é que nem o supermercado nem aquele carro são tão bons assim. Muit
 
 Então sim: essa pessoa está lá no mercado do pó e tem todo o direito de estar lá quanto qualquer outro cidadão. Seja lá o que aparente ter ou que tenha: é uma pessoa. Ser uma pessoa é único requisito possível e necessário para ser bem tratado.
 
-Porque senão dirão nas OKRs das KPIs das PQPs que querem “encantar” o cliente. Enfeitiçando-o para entrar no mesma clima do churrasco alucinógeno que você e os outros CEOs e CTOs e sabem-se lá quais mais siglas, fizeram aglormerando-se sem máscara no final de semana, aparentando se autocongratular enquanto, na ausência de volume em certos lugares no corpo, tentam compensar no tamanho do carro, da casa, da empresa, ou… Eu ia falar de iate, mas a classe que se acha “elite” neste país tem dinheiro pra isso não. Porque nem ricos de verdade são. E em sentido algum. Agora quanto ao financeiro, ricos mesmos aqui são só uns cinco entre mais de duzentos milhões.
+Porque senão dirão nas OKRs das KPIs das PQPs que querem “encantar” o cliente. Enfeitiçando-o para entrar no mesma clima do churrasco alucinógeno que você e os outros CEOs e CTOs e sabem-se lá quais mais siglas, fizeram aglomerando-se sem máscara no final de semana, aparentando se autocongratular enquanto, na ausência de volume em certos lugares no corpo, tentam compensar no tamanho do carro, da casa, da empresa, ou… Eu ia falar de iate, mas a classe que se acha “elite” neste país tem dinheiro pra isso não. Porque nem ricos de verdade são. E em sentido algum. Agora quanto ao financeiro, ricos mesmos aqui são só uns cinco entre mais de duzentos milhões.
 
 # Os atentados
-
 O fato é que além de ser um atentado a acessibilidade, ter de “ativar” as ofertas no tal aplicativo  é exclusivo. E tudo que é exclusivo, como já sabemos, está excluindo alguém. 
 
 Nunca vai ser demais: "exclusivo" não é bonito nem bom nem nada que preste.
@@ -88,7 +82,7 @@ Se é exclusivo, exclui quem não tem celular. Quem não pôde levar o celular. 
 
 Enfim… Exclui. E se exclui, a promoção não é para todos. Só para quem eles querem.
 
-Muitos dirão que fazer “clubinhos” de “vantagens” é um direito do estabelecimento para “fildelizar” o cliente. Mesmo que seja: quer “fidelizar”? Tenha bons produtos a preços justos e tenha excelência no atendimento. Pronto. Fidelizou.
+Muitos dirão que fazer “clubinhos” de “vantagens” é um direito do estabelecimento para “fidelizar” o cliente. Mesmo que seja: quer “fidelizar”? Tenha bons produtos a preços justos e tenha excelência no atendimento. Pronto. Fidelizou.
 
 Agora, quer fazer de conta, caia fora. Quer bancar o legalzão? Seja legal de verdade e todos saberão.
 
@@ -103,7 +97,6 @@ Se isso não é exclusão, discriminação e preconceito, o que seria? E o que f
 Poder-se-ia dizer que diante tantas outras coisas absurdas, isso é um “problema de primeiro mundo”. Mas não, não é. Alguns reais a menos no papel higiênico poderiam virar de bom grado um quilo a mais de feijão no carrinho. Se você não vive esse problema nem precisa disso, que bom. Mas então é bom mesmo começar a fazer parte da solução. O que você faz com o seu privilégio?
 
 ## “Assinado, a Gerência”
-
 Aí vem a pessoa que gerencia ou supervisiona, que já tentei conversar em outra ocasião, explicando que cerveja sem álcool não é bebida alcóolica e portanto pode ser passada no “cartão alimentação”, enquanto ela insiste já brava que inseticida é alimentação, mas cerveja não, batendo boca comigo como se eu fosse um inimigo e não seu cliente…
 
 Veio o tal gerente cancelar a compra sem nem responder o que eu tinha perguntado; depois jogar um papel de reclamação em cima de mim com uma caneta anexa quando pedi para saber como reclamaria formalmente do mau atendimento e passei naquele momento a incluir o nome dele na reclamação. Paralelamente e de esgueio, vendo que seu nome constava ali, começou a gritar comigo e só chamando outra pessoa de outro lugar na hierarquia eu fui conseguir uma promessa que algo seria feito e o papel que escrevi não seria jogado no lixo logo após a minha saída.
@@ -113,7 +106,6 @@ E eu expliquei pra ele, e não foi a primeira vez… Que sim, eles podem errar. 
 Para ser justo: há pessoas lindas lá em todos os sentidos, que nos atendem, a mim e a minha esposa, com competência, educação e genuína gentileza. Seremos clientes deles para sempre onde quer que forem, mesmo que em outro supermercado, mesmo que em qualquer outro ramo ou lugar para onde queiram seguir.
 
 ## Evoluindo juntos
-
 Lembro de uma vez em que havia facas e cutelos na promoção e expostos em bandejas, sem plásticos nem nada protegendo as lâminas. Tudo isso ao alcance de crianças pequenas. Fui lá, descrevi o problema e fui tão bem atendido que até fiquei emocionado. No outro dia estavam não na melhor posição do mundo, não com as lâminas todas cobertas, mas fora do alcance de crianças pelo menos. Não é lindo conversar e podermos melhorar os ambientes que em vivemos?
 
 Noutra ocasião relatei o fato das cervejas (bebo uma *long neck* por mês) estarem do lado de produtos de limpeza (e fortes). Essa eu já desisti. Não adianta. Assim como não adianta eles acharem que inseticida é comida, mas cerveja sem álcool não.
@@ -121,7 +113,6 @@ Noutra ocasião relatei o fato das cervejas (bebo uma *long neck* por mês) esta
 O que não sei se devo desistir é que o gerente seja melhor treinado. Assim como a pessoa do caixa, Assim como tantas outras pessoas que não tiveram a oportunidade de aprender ou serem tratadas com a gentileza que boa parte dos clientes merece.
 
 ## O coração na boca
-
 Fico com o coração na mão (ou seria na boca?) quando, imagino que com razão, preciso relatar algo que não tenha sido legal. Fico também puto comigo. Eu não deveria me estressar. Não deveria mesmo. Mas tem hora que não me parece justo ficar calado, vez após vez.
 
 Gosto do que é positivo. Do que é leve. Do que é agregador. Quem me conhece sabe: relato mesmo e também o que é bom.
@@ -133,11 +124,9 @@ Mas, voltando ao coração na mão: é por conta desse receio imenso de uma recl
 É o CEO e sua corte de bajuladores que não sabem que você nem a pessoa do caixa existem, e nem querem mesmo e de verdade saber. Sabem apenas da fórmula: despender menor dinheiro possível para um, obter maior dinheiro possível do outro.
 
 ## Qual a forma?
-
 A melhor forma para boa parte dos problemas atuais nas empresas, não só por aqui no Brasil, é capacitação, educação e valorização do ser humano que trabalha para você. E, através dele e dos clientes que pagam dinheiro para sua empresa e para você, *chief-of-alguma-coisa*, é que você tenta fazer de conta que seu salário sustenta seu modo raso de vida. É isso que gera o crescimento que você adora exibir nos *quarters* e nos *halfs* nas reuniões da empresa em *powerpoints* mal feitos. Essa boa vontade alheia e esse dinheiro obtido é que permitem a você se exibir ou exibir para os outros machos-adultos-brancos quantos pés teria o iate virtual que você não tem dinheiro para pagar, quase entrando em catarse numa obsessão e excitação mútua por tamanhos e outras coisas que é melhor nem dizer, mas psicólogos poderiam tentar explicar.
 
 ## É sério!
-
 Perder o emprego hoje no Brasil, para a maioria dos brasileiros, é o mesmo que entrar num filme de terror. Pior que isso: é como entrar numa espécie de não-vida. Ser considerado uma não-pessoa.
 
 Não sabe o que é isso? Experimente ficar sem dinheiro para pagar o aluguel, a energia elétrica, a água, o telefone e, principalmente, a comida. Em pouquíssimo tempo você e os seus, não importa as cores das suas bandeiras, serão mais que invisíveis para a sociedade que tanto lhe tratava bem enquanto seu cartão passava. Serão tratados como indesejáveis, nojentas e sim, não-pessoas, não-cidadãos, já que não mais clientes ou consumidores.
