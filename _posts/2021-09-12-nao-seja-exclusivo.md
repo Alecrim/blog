@@ -12,7 +12,7 @@ imagecredit_id: '@eduschadesoares'
 imagecredit_name: 'Eduardo Soares'
 opengraph_type: article
 category: Opinião
-tags: []
+tags: [acessibilidade, inclusão, sociedade]
 description: Exclusivo a exclusivo, não sobrará um de nós no universo.
 excerpt: Exclusivo a exclusivo, não sobrará um de nós no universo.
 ---
