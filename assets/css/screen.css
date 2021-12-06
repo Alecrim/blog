@@ -10,85 +10,85 @@ License: https://www.wowthemes.net/freebies-license/
 
 @media (prefers-color-scheme: dark) {
     body {
-        color: white !important;
-        background: #333 !important;
+        color: #e8e8e8 !important;
+        background: #1e1e1e !important;
     }
 
     pre {
-        background: #333 !important;
-        color: #cfcfcf !important;
+        color: #e8e8e8 !important;
+        background: #1e1e1e !important;
     }
 
     .mediumnavigation {
-        background: #333 !important;
-        box-shadow: 0 2px 2px -2px rgba(255, 255, 255, .15) !important;
+        background: #171717 !important;
+        box-shadow: 0 2px 2px -2px rgba(232, 232, 232, .15) !important;
     }
 
     .listrecent h4.card-text {
-        color: rgba(255, 255, 255, .44) !important;
+        color: rgba(232, 232, 232, .44) !important;
     }
 
     .listfeaturedtag, .card, .card-footer {
-        background-color: rgba(255, 255, 255, .05) !important;
+        background-color: #171717 !important;
     }
 
     .card-title, .card-text, .text-dark {
-        color: #cfcfcf !important;
+        color: #e8e8e8 !important;
     }
 
     .post-read-more {
-        color: #cfcfcf !important;
+        color: #e8e8e8 !important;
     }
 
     .post-top-meta span {
-        color: rgba(255, 255, 255, .44) !important;
+        color: rgba(232, 232, 232, .44) !important;
     }
 
     span.post-date,
     span.post-read {
-        color: rgba(255, 255, 255, .44) !important;
+        color: rgba(232, 232, 232, .44) !important;
     }
 
     span.post-read-more a {
-        color: rgba(255, 255, 255, .44) !important;
+        color: rgba(232, 232, 232, .44) !important;
     }
 
     span.post-name a,
     span.post-read-more a:hover {
-        color: rgba(255, 255, 255, .8) !important;
+        color: rgba(232, 232, 232, .8) !important;
     }
 
     span.post-read-more a {
-        color: rgba(255, 255, 255, .44) !important;
+        color: rgba(232, 232, 232, .44) !important;
     }
 
     span.post-name a,
     span.post-read-more a:hover {
-        color: rgba(255, 255, 255, .8) !important;
+        color: rgba(232, 232, 232, .8) !important;
     }
 
     .footer {
-        color: rgba(255, 255, 255, .44) !important;
-        background: #333 !important;
-        border-top: 1px solid rgba(255, 255, 255, .05) !important;
+        color: rgba(232, 232, 232, .44) !important;
+        background: #171717 !important;
+        border-top: 1px solid rgba(232, 232, 232, .05) !important;
     }
 
     .link-dark {
-        color: rgba(255, 255, 255, .8) !important;
+        color: rgba(232, 232, 232, .8) !important;
     }
 
     .article-post {
-        color: rgba(255, 255, 255, .8) !important;
+        color: rgba(232, 232, 232, .8) !important;
     }
 
     blockquote {
-        color: rgba(255, 255, 255, .5) !important;
+        color: rgba(232, 232, 232, .5) !important;
     }
 
     .share,
     .share a {
-        color: rgba(255, 255, 255, .44) !important;
-        fill: rgba(255, 255, 255, .44) !important;
+        color: rgba(232, 232, 232, .44) !important;
+        fill: rgba(232, 232, 232, .44) !important;
     }
 
     .graybg {
@@ -96,12 +96,12 @@ License: https://www.wowthemes.net/freebies-license/
     }
 
     ul.tags li a {
-        color: rgba(255, 255, 255, .6) !important;
-        background: rgba(255, 255, 255, .05) !important;
+        color: rgba(232, 232, 232, .6) !important;
+        background: rgba(232, 232, 232, .05) !important;
     }
 
     ul.tags li a:hover {
-        background: rgba(255, 255, 255, .07) !important;
+        background: rgba(232, 232, 232, .07) !important;
     }
 
     .sep {
@@ -117,12 +117,12 @@ License: https://www.wowthemes.net/freebies-license/
     }
 
     .transpdark {
-        background: rgba(255, 255, 255, 0.75) !important;
-        color: #000 !important;
+        color: #171717 !important;
+        background: rgba(232, 232, 232, 0.75) !important;
     }
 
     .nav-link {
-        color: #cfcfcf !important;
+        color: #e8e8e8 !important;
     }
 
     .section-title h2 {
@@ -131,6 +131,56 @@ License: https://www.wowthemes.net/freebies-license/
 
     .section-title span {
         border-bottom: 1px solid rgba(255, 255, 255, .44) !important;
+    }
+
+    .fa-caret-up, .navigation {
+        color: #808080 !important;
+        border-color: #808080 !important;
+    }
+
+    .navbar-light .navbar-brand {
+        color:#fff !important;
+    }
+
+    .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+        color:#fff !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        color:rgba(255, 255, 255, .5) !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        color:rgba(255, 255, 255, .75) !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link.disabled {
+        color:rgba(255, 255, 255, .25) !important;
+    }
+
+    .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+        color:#fff !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgba(255, 255, 255, .5) !important;
+        border-color:rgba(255, 255, 255, .1) !important;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+    }
+
+    .navbar-light .navbar-text {
+        color:rgba(255, 255, 255, .5) !important;
+    }
+
+    .navbar-light .navbar-text a {
+        color:#fff !important;
+    }
+
+    .navbar-light .navbar-text a:focus, .navbar-light .navbar-text a:hover {
+        color:#fff !important;
     }
 }
 
