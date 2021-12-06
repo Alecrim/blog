@@ -3,10 +3,142 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
+
+:root {
+    color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: white !important;
+        background: #333 !important;
+    }
+
+    pre {
+        background: #333 !important;
+        color: #cfcfcf !important;
+    }
+
+    .mediumnavigation {
+        background: #333 !important;
+        box-shadow: 0 2px 2px -2px rgba(255, 255, 255, .15) !important;
+    }
+
+    .listrecent h4.card-text {
+        color: rgba(255, 255, 255, .44) !important;
+    }
+
+    .listfeaturedtag, .card, .card-footer {
+        background-color: rgba(255, 255, 255, .05) !important;
+    }
+
+    .card-title, .card-text, .text-dark {
+        color: #cfcfcf !important;
+    }
+
+    .post-read-more {
+        color: #cfcfcf !important;
+    }
+
+    .post-top-meta span {
+        color: rgba(255, 255, 255, .44) !important;
+    }
+
+    span.post-date,
+    span.post-read {
+        color: rgba(255, 255, 255, .44) !important;
+    }
+
+    span.post-read-more a {
+        color: rgba(255, 255, 255, .44) !important;
+    }
+
+    span.post-name a,
+    span.post-read-more a:hover {
+        color: rgba(255, 255, 255, .8) !important;
+    }
+
+    span.post-read-more a {
+        color: rgba(255, 255, 255, .44) !important;
+    }
+
+    span.post-name a,
+    span.post-read-more a:hover {
+        color: rgba(255, 255, 255, .8) !important;
+    }
+
+    .footer {
+        color: rgba(255, 255, 255, .44) !important;
+        background: #333 !important;
+        border-top: 1px solid rgba(255, 255, 255, .05) !important;
+    }
+
+    .link-dark {
+        color: rgba(255, 255, 255, .8) !important;
+    }
+
+    .article-post {
+        color: rgba(255, 255, 255, .8) !important;
+    }
+
+    blockquote {
+        color: rgba(255, 255, 255, .5) !important;
+    }
+
+    .share,
+    .share a {
+        color: rgba(255, 255, 255, .44) !important;
+        fill: rgba(255, 255, 255, .44) !important;
+    }
+
+    .graybg {
+        background-color: #050505 !important;
+    }
+
+    ul.tags li a {
+        color: rgba(255, 255, 255, .6) !important;
+        background: rgba(255, 255, 255, .05) !important;
+    }
+
+    ul.tags li a:hover {
+        background: rgba(255, 255, 255, .07) !important;
+    }
+
+    .sep {
+        background: #666 !important;
+    }
+
+    .btn.follow {
+        border-color: #02B875 !important;
+    }
+
+    .sociallinks a {
+        background: #999 !important;
+    }
+
+    .transpdark {
+        background: rgba(255, 255, 255, 0.75) !important;
+        color: #000 !important;
+    }
+
+    .nav-link {
+        color: #cfcfcf !important;
+    }
+
+    .section-title h2 {
+        border-bottom: 1px solid rgba(255, 255, 255, .125) !important;
+    }
+
+    .section-title span {
+        border-bottom: 1px solid rgba(255, 255, 255, .44) !important;
+    }
+}
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
+
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -314,7 +446,7 @@ span.post-read-more a:hover {
 }
 
 .footer {
-    border-top: 1px solid rgba(0, 0, 0, .05) !important;
+    border-top: 1px solid rgba(0, 0, 0, .05);
     padding-top: 15px;
     padding-bottom: 12px;
     font-size: 0.8rem;
