@@ -32,7 +32,7 @@ O que vem ao caso é que o atencioso vendedor (que sempre me lembro positivament
 
 Naquele momento eu só pude comparar um carro a um terno e me lembrar que se eu quisesse um terno exclusivo iria ao alfaiate e pediria um sob medida, não compraria um da Armani, que provavelmente seria muito mais caro que o terno que Seu Antenor faria para mim, já tendo meus tamanhos, e seria só comprar o tecido, pagando-o depois em suaves prestações o pouco dinheiro que cobrava por arte tão excelente e tão rara.
 
-(Interrupção paga alertar que alguns nomes e épocas foram trocadas por conta de ser eu quem está escrevendo o artigo e poder fazer o que quiser nele e dele.)
+(Interrupção para alertar que alguns nomes e épocas foram trocadas por conta de ser eu quem está escrevendo o artigo e poder fazer o que quiser nele e dele.)
 
 Só depois de muito tempo comecei a entender como será o meu futuro, como será o seu… Não! Digo, como esse “exclusivo” e seu sentido nem passava perto da minha inocência e da minha retumbante ignorância.
 

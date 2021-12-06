@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: O Lucro da Diversidade
 author: van
