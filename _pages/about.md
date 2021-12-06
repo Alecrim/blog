@@ -4,6 +4,8 @@ title: Sobre
 permalink: /about
 comments: false
 ---
+![Bloom where you are planted](https://secure-res.craft.do/v1/ygd5BSLMz9ySeQRDwypx4VAEpvG6Dm1vmWdxQ6ezQkX75x2X1bBnL4PKQGEGPZhF7FqnZiQAny22c8aBVeaPQxsxYS5DhEb6ch8uKPkxeco61SUgU8HJT9WYRZZHg7qeUPQgJRFJ9pcCApyPvyeWkBUJ)
+
 I’m a creative, independent and passionate person. I'm also a creative, independent and passionate computer programmer since the 1980s.
 
 Going a little further: I am an experienced Systems Analyst, Systems Architect, Software Architect and Software Engineer with over thirty years of experience.
