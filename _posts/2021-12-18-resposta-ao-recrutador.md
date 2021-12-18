@@ -29,7 +29,7 @@ Deixando por aqui esse pequeno “template” de resposta aos recrutadores para 
 > - Sem o ultrapassado "trabalhamos com a pretenção salarial do candidato", qual a faixa de salário que pretendem pagar para a vaga, levando em consideração minha senioridade, além de quais os benefícios reais, incluindo aí quais as práticas de reajustes monetários, inflacionários e aumento por merecimento;
 > - Qual o suporte tanto prático quanto psicológico para exercer a atividades do dia-a-dia;
 > - Quais os incentivos reais dados ao crescimento tanto interno quanto externo e qual o reconhecimento dado ao bom desempenho, tanto quanto ao enriquecimento trazido consequentemente para a firma;
-> - Qual o verdadeiro sentido de “oportunidades” que terei dentro da empresa para me desenvolver bem como aprimorar os processos e produtos internos após ser contratado.
+> - Qual o verdadeiro sentido, o propósito e a “oportunidade” que terei dentro da empresa para me desenvolver bem como aprimorar os processos e produtos internos após ser contratado.
 > - Finalmente, o que acontece efetivamente quando chefias praticam abusos.
 > 
 > Aguardo sua resposta, sabendo que uma empresa tão moderna, inovadora, disruptiva, *lean*, *digital*, etc., certamente já “cocriou” com os seus, todos “fora da caixa” e “fora da curva”, as respostas, tendo-as na *ponta da língua*, agora e de imediato, e que vamos ter uma conversa realmente proveitosa para ambas as partes quando da nossa mútua entrevista.
