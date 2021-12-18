@@ -27,7 +27,7 @@ Deixando por aqui esse pequeno “template” de resposta aos recrutadores para 
 > - Quais as políticas efetivas (não as propagandeadas, mas as reais mesmo) da empresa quanto a inclusão, diversidade e acessibilidade, levando em conta, obviamente, o respeito mútuo na relação empregador/empregado, sabendo que o poder de uma empresa é desproporcional a de um funcionário, portanto e daí sua obrigação primária de proteger os menos favorecidos;
 > - Qual a senioridade pedida para o cargo, já que uma *checklist* de exigências costuma ser igual de estagiário a “megablaster”, não significando muita coisa.
 > - Sem o ultrapassado "trabalhamos com a pretenção salarial do candidato", qual a faixa de salário que pretendem pagar para essa vaga de emprego, levando em consideração minha senioridade, além de quais os benefícios reais, incluindo aí quais as práticas de reajustes monetários, inflacionários e aumento por merecimento;
-> - Qual o suporte tanto prático quanto psicológico para exercer a atividades do dia-a-dia;
+> - Qual o suporte tanto prático quanto psicológico para exercer as atividades do dia-a-dia;
 > - Quais os incentivos reais dados ao crescimento tanto interno quanto externo e qual o reconhecimento dado ao bom desempenho, tanto quanto ao enriquecimento trazido consequentemente para a firma;
 > - Qual o verdadeiro sentido, o propósito e a “oportunidade” que terei dentro da empresa para me desenvolver bem como aprimorar os processos e produtos internos após ser contratado;
 > - Finalmente, o que acontece efetivamente quando chefias praticam abusos.
