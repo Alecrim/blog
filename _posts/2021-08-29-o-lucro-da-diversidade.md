@@ -7,7 +7,7 @@ lang: pt-BR
 lang-ref: the-profit-of-diversity
 featured: false
 hidden: false
-image: "https://images.unsplash.com/photo-1530695440407-21fef47230b1?auto=format&fit=clip&w=1600&h=900&q=80"
+image: "https://images.unsplash.com/photo-1530695440407-21fef47230b1?auto=format&fit= clamp&w=1600&h=900&q=80"
 imagecredit_id: '@bacila_vlad'
 imagecredit_name: 'Bacila Vlad'
 opengraph_type: article
