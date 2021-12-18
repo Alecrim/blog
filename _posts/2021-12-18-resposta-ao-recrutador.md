@@ -32,12 +32,12 @@ Deixando por aqui esse pequeno “template” de resposta aos recrutadores para 
 > - Qual o verdadeiro sentido, o propósito e a “oportunidade” que terei dentro da empresa para me desenvolver bem como aprimorar os processos e produtos internos após ser contratado;
 > - Finalmente, o que acontece efetivamente quando chefias praticam abusos.
 > 
-> Aguardo sua resposta, sabendo que uma empresa tão moderna, inovadora, disruptiva, *lean*, *digital*, etc., certamente já “cocriou” com os seus, todos “fora da caixa” e “fora da curva”, as respostas, tendo-as na *ponta da língua*, agora e de imediato, e que vamos ter uma conversa realmente proveitosa para ambas as partes quando da nossa mútua entrevista.
+> Aguardo sua resposta, sabendo que uma empresa tão moderna, inovadora, disruptiva, *lean*, *digital*, etc., certamente já “cocriou” com os seus, todos pensantes “fora da caixa” e seres “fora da curva”, as respostas, tendo-as na *ponta da língua*, agora e de imediato, e que vamos ter uma conversa realmente proveitosa para ambas as partes quando da nossa mútua entrevista.
 > 
 > Obrigado,
 > 
 > **Vanderlei Martinelli**<br />
-> *Expecialista em Análise, Criação, Arquitetura, Desenvolvimento e Manutenção de Sistemas, Processos e Programas para Computadores*[^2]
+> *Especialista em Análise, Criação, Arquitetura, Desenvolvimento e Manutenção de Sistemas, Processos e Programas para Computadores*[^2]
 
 [^1]: Sujeito a mudanças e atualizações.
 [^2]: Dentre um monte mesmo de outras coisas tão ou mais importantes que nem imaginam.
