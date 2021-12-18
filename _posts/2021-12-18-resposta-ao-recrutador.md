@@ -36,8 +36,8 @@ Deixando por aqui esse pequeno “template” de resposta aos recrutadores para 
 > 
 > Obrigado,
 > 
-> **Vanderlei Martinelli**
-> *Especialista em Análise, Criação, Arquitetura, Desenvolvimento e Manutenção de Sistemas, Processos e Programas para Computadores*[^2]
+> **Vanderlei Martinelli**<br />
+> *Expecialista em Análise, Criação, Arquitetura, Desenvolvimento e Manutenção de Sistemas, Processos e Programas para Computadores*[^2]
 
 [^1]: Sujeito a mudanças e atualizações.
 [^2]: Dentre um monte mesmo de outras coisas tão ou mais importantes que nem imaginam.
