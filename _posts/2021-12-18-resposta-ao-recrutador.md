@@ -13,8 +13,8 @@ imagecredit_name: 'Tangerine Newt'
 opengraph_type: article
 category: Opinião
 tags: [acessibilidade, diversidade, emprego, entrevista, inclusão, recrutamento, respeito]
-description: Pequeno “template” para resposta a recrutadores depois de mais de 20 anos já no século 21.
-excerpt: Pequeno “template” para resposta a recrutadores depois de mais de 20 anos já no século 21.
+description: Meu template de resposta (carinhosa) aos recrutadores, já passados mais de 20 anos no século 21.
+excerpt: Meu template de resposta (carinhosa) aos recrutadores, já passados mais de 20 anos no século 21.
 ---
 
 Deixando por aqui esse pequeno “template” de resposta aos recrutadores para ficar mais fácil de copiar e colar no futuro.[^1]
@@ -24,7 +24,7 @@ Deixando por aqui esse pequeno “template” de resposta aos recrutadores para 
 > Antes de agendarmos esse “bate papo”, porém, gostaria de saber:
 > 
 > - Qual o perfil da empresa, da equipe e do produto no qual possivelmente trabalharei;
-> - Quais as políticas efetivas (não as propagandeadas, mas as reais mesmo) da empresa quanto a inclusão, diversidade e acessibilidade, levando em conta, obviamente, o respeito mútuo na relação empregado/empregador, sabendo que o poder de uma empresa é desproporcional a de um funcionário, portanto e daí sua obrigação primária de proteger o menos favorecidos;
+> - Quais as políticas efetivas (não as propagandeadas, mas as reais mesmo) da empresa quanto a inclusão, diversidade e acessibilidade, levando em conta, obviamente, o respeito mútuo na relação empregador/empregado, sabendo que o poder de uma empresa é desproporcional a de um funcionário, portanto e daí sua obrigação primária de proteger os menos favorecidos;
 > - Qual a senioridade pedida para o cargo, já que uma *checklist* de exigências costuma ser igual de estagiário a “megablaster”, não significando muita coisa.
 > - Sem o ultrapassado "trabalhamos com a pretenção salarial do candidato", qual a faixa de salário que pretendem pagar para a vaga, levando em consideração minha senioridade, além de quais os benefícios reais, incluindo aí quais as práticas de reajustes monetários, inflacionários e aumento por merecimento;
 > - Qual o suporte tanto prático quanto psicológico para exercer a atividades do dia-a-dia;
