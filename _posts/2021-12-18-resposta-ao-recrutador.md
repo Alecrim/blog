@@ -13,8 +13,8 @@ imagecredit_name: 'Tangerine Newt'
 opengraph_type: article
 category: Opinião
 tags: [acessibilidade, emprego, entrevista, inclusão, recrutamento]
-description: Pequeno "template" para resposta a recrutadores em 2021.
-excerpt: Pequeno "template" para resposta a recrutadores em 2021.
+description: Pequeno “template” para resposta a recrutadores depois de mais de 20 anos já no século 21.
+excerpt: Pequeno “template” para resposta a recrutadores depois de mais de 20 anos já no século 21.
 ---
 
 Deixando por aqui esse pequeno “template” de resposta aos recrutadores para ficar mais fácil de copiar e colar no futuro.[^1]
