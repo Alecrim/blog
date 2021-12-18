@@ -5,7 +5,7 @@ author: van
 date: 2021-12-18T16:30:00-03:00
 lang: pt-BR
 lang-ref: resposta-aos-recrutadores
-featured: false
+featured: true
 hidden: false
 image: "https://images.unsplash.com/photo-1617720097949-d6fd9ed1d71b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1600&q=80"
 imagecredit_id: '@tangerinenewt'
