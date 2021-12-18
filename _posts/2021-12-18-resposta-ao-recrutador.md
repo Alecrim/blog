@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reposta aos Recrutadores
+title: Resposta aos Recrutadores
 author: van
 date: 2021-12-18T16:30:00-03:00
 lang: pt-BR
