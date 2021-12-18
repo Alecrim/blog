@@ -7,7 +7,7 @@ lang: pt-BR
 lang-ref: resposta-aos-recrutadores
 featured: true
 hidden: false
-image: "https://images.unsplash.com/photo-1617720097949-d6fd9ed1d71b?auto=format&fit= clamp&w=1600&h=900&q=80"
+image: "https://images.unsplash.com/photo-1617720097949-d6fd9ed1d71b?auto=format&fit= crop&w=1600&h=1600&q=80"
 imagecredit_id: '@tangerinenewt'
 imagecredit_name: 'Tangerine Newt'
 opengraph_type: article

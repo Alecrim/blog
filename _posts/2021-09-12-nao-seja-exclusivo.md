@@ -7,7 +7,7 @@ lang: pt-BR
 lang-ref: do-not-be-exclusive
 featured: false
 hidden: false
-image: "https://images.unsplash.com/photo-1601598851547-4302969d0614?auto=format&fit= clamp&w=1600&h=900&q=80"
+image: "https://images.unsplash.com/photo-1601598851547-4302969d0614?auto=format&fit= crop&w=1600&h=1600&q=80"
 imagecredit_id: '@eduschadesoares'
 imagecredit_name: 'Eduardo Soares'
 opengraph_type: article
