@@ -7,7 +7,7 @@ lang: pt-BR
 lang-ref: your-iphone-can-really-kill-you
 featured: false
 hidden: false
-image: "https://images.unsplash.com/photo-1516733968668-dbdce39c4651?auto=format&fit= crop&w=1600&h=1600&q=80"
+image: "https://images.unsplash.com/photo-1516733968668-dbdce39c4651?auto=format&fit=crop&w=1600&h=1600&q=80"
 imagecredit_id: '@xokvictor'
 imagecredit_name: 'Viktor Bystrov'
 opengraph_type: article
